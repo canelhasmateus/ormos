@@ -5,6 +5,8 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 FileEncoding, UTF-8 ; 
 #Include %A_ScriptDir%\qwerty-extend.ahk
 #Include %A_ScriptDir%\qwerty-altgr.ahk
+#Include %A_ScriptDir%\lib\FlowTime.ahk
+
 
 ; remaps / ? to Shift
 *SC073::Shift

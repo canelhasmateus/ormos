@@ -1,6 +1,5 @@
 #SingleInstance, Force
-SendMode Input
-
+#NoEnv
 #Include %A_ScriptDir%\lib\AccessibilityData.ahk
 #Include %A_ScriptDir%\lib\Flowtime.ahk
 #Include %A_ScriptDir%\lib\VisualUtils.ahk

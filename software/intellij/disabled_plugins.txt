@@ -53,3 +53,4 @@ org.jetbrains.idea.eclipse
 org.jetbrains.plugins.javaFX
 org.jetbrains.plugins.vue
 tanvd.grazi
+com.github.copilot

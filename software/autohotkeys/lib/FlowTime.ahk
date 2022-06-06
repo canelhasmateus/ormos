@@ -1,14 +1,7 @@
-#NoEnv
-#singleinstance force
-#Include %A_ScriptDir%\lib\VisualUtils.ahk
-
 #SingleInstance, Force
-SendMode Input
-SetWorkingDir, %A_ScriptDir%
+#NoEnv
 #Include %A_ScriptDir%\lib\VisualUtils.ahk
 
-globalState := 
-breakEnd := 0
 
 ; ----- Pure Utilities
 ToHumanTime( timestamp ) {
@@ -16,6 +9,7 @@ ToHumanTime( timestamp ) {
     return result
 }
 ToUnixTime( timestamp ) {
+    timestamp := RegExReplace(timestamp, "[/: ]")
     FormatTime, result, %timestamp%, yyyyMMddHHmmss
     return result
 }
@@ -29,7 +23,19 @@ Sum( start, offset ) {
     EnvAdd result, %offset%, seconds
     return result
 }
-
+SecondsSinceStart( state ) {
+    mainTask := state["Tasks"][1]
+    timeStart := mainTask["Start"]
+    right_now := GetUnixTime()
+    timeSince := Diff( timeStart,  right_now)
+    return timeSince
+}
+ApproxMinutesSinceStart( state ) {
+    timeSince := SecondsSinceStart( state )
+    halfHours := timeSince / 1800
+    minutePassed := Round(halfHours) * 30
+    return minutePassed
+}
 StrRepeat(string, times) {
     output := ""
 
@@ -47,6 +53,7 @@ Coalesce( val , fallback ) {
     return val
 
 }
+
 ; ----- Core Logic
 BreakSize( start, finish ) {
     Duration := Diff( start , finish )
@@ -98,8 +105,8 @@ AdvanceState( action , state) {
 
 _FormatForkMessage( state ) {
     tasks := state["Tasks"] 
-    ; tasks := Coalesce( tasks , [ ])    
-    message := "Currently Working:`n"
+    sinceStart := SecondsSinceStart( state )
+    message := "Currently Working for " sinceStart ":`n"
     for idx , obj in tasks {
         spaces := StrRepeat( " " , idx) 
         name := obj["Name"] 
@@ -195,7 +202,9 @@ LoadState() {
         Loop, parse, A_LoopReadLine, %A_Tab%
         {
             if ( A_Index == 1 ) {
-                action["Task"]["Start"] := ToUnixTime( A_LoopField )         
+                
+                started := ToUnixTime( A_LoopField )         
+                action["Task"]["Start"] :=  started
             }
             else if ( A_Index == 2 ) {
                 action["Action"] := A_LoopField
@@ -211,6 +220,7 @@ LoadState() {
         state := AdvanceState( action , state )
 
     }
+    _RegisterFlowReminders( state )
     return state
 }
 
@@ -250,29 +260,43 @@ _BreakInstructions( oldState , state) {
         }
     return
 }
+
+_RemindFlow(  ) {
+    Remind1:
+    Remind2:
+    Remind3:
+    global globalState
+
+    minutePassed := ApproxMinutesSinceStart( globalState )
+    WriteTip( minutePassed "~ minutes since task started." , 10000)
+    SoundChirp()
+    return
+}
+_RegisterFlowReminders( state ) {
+    if state["Mode"] != "Flow" {
+        return
+    }
+
+    sinceStart := SecondsSinceStart( state )
+    for i , period in [1800 , 3600 , 5400] {
+        untilRing := period - sinceStart
+        if ( untilRing > 0) {
+            milliUntilRing := Ceil( 1000 *  untilRing)
+            SetTimer, Remind%i%, -%milliUntilRing%
+        }    
+    }
+    return
+
+}
 _FlowInstructions( state ) {
     newDesktop()
     content := _FormatStartMessage( state )
     MsgBox, %content%
-
-    SetTimer, TaskTime, -1800000
-    SetTimer, TaskTime, -3650000
-    SetTimer, TaskTime, -5450000
-    ; todo: Make this recurrent.
     state["Tasks"][1]["Start"] = GetUnixTime()
+    _RegisterFlowReminders( state )
     return state
 
-    TaskTime:
-        global globalState
-        mainTask := globalState["Tasks"][1]
-        timeSince := Diff( mainTask["Start"] , GetUnixTime() )
-        halfHours := timeSince / 1800
-        if ( halfHours > 1) {
-            minutePassed := Round(halfHours) * 30
-            WriteTip( minutePassed "~ minutes since task started." , 10000)
-            SoundChirp()
-        }
-    return
+    
 }
 ChooseAction( message , options) {
     choice := GatherChoice( message, options)
@@ -313,11 +337,11 @@ ChooseTask( message ) {
 
 FlowUI( ) {
     global globalState
-    if ( !globalState ) {
-        globalState := LoadState() 
-    }
 
     ; ----- 
+    if ( !globalState ) {
+        globalState := LoadState()
+    }
     state := globalState
     currentMode := state["Mode"]
     if (currentMode == "Flow") {
@@ -354,6 +378,3 @@ globalState := newState
 
 return 
 }
-
-; ----- 
-

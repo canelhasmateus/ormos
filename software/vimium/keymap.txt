@@ -7,13 +7,16 @@ unmapAll
 map nq LinkHints.activateModeToOpenInNewForegroundTab
 map / enterFindMode
 map ? enterVisualMode
-map fl performFind
-map fj performBackwardsFind
-map fi focusInput
+
+map vl performFind
+map vj performBackwardsFind
+map vi focusInput
+map vv enterInsertMode
 
 #map <a-f><a-l> performFind
 #map <a-f><a-j> performBackwardsFind
 #map VI enterVisualLineMode
+
 
 
 # Todo:
@@ -32,10 +35,9 @@ map nn LinkHints.activateMode
 map nN LinkHints.activateModeToOpenInNewTab
 map NN LinkHints.activateModeToOpenInNewTab
 map np LinkHints.activateModeWithQueue
-map nf focusInput
-map <a-f>i focusInput
-map <a-f><a-i> focusInput
-
+map np LinkHints.activateModeWithQueue
+map nw goUp
+map n<a-w> goToRoot
 
 
 #Vim scrolling
