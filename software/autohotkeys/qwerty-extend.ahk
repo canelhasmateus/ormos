@@ -67,34 +67,13 @@ SetCapsLockState, AlwaysOff
 
 ; ; top row
 
-; F24 & SC010::
-;   Send {Esc}
-; return
+F24 & SC010::
+  Send {Esc}
+return
 
-; F24 & SC011::
-;   mouseclick, x1
-;   ;Send {Browser_Back}
-; return
-
-; F24 & SC012::
-;   Send {CtrlDown}{f}{CtrlUp}
-; return
-
-; F24 & SC014::
-;   Send {Insert}
-; return
-
-; F24 & SC015::
-;   Send {Blind}{PgUp}
-; return
-
-; F24 & SC019::
-;   Send {AppsKey}
-; return
-
-; F24 & SC01A::
-;   Send {Blind}{PrintScreen}
-; return
+F24 & SC011::
+  Send {AppsKey}
+return
 
 ; F24 & SC01B::
 ;   Send {Insert}
@@ -131,7 +110,10 @@ return
 F24 & SC022 Up::
   Send {AltUp}
 return
-; 
+
+
+; -----
+
 ;; Directionals
 
 F24 & SC023::
@@ -158,6 +140,8 @@ F24 & SC025::
   Send {Blind}{Down}
 return
 
+; -----
+
 ;;  Input
 F24 & SC039::
   Send {Blind}{Enter}
@@ -167,78 +151,17 @@ F24 & SC033::
   Send {Blind}{Backspace}
 return
 
-F24 & SC032::
-  Send {CtrlDown}{Blind}{Backspace}{CtrlUp}
-return
-
-F24 & SC018::
+F24 & SC034::
   Send {Blind}{Del}
 return
+  
+; ; bottom row
 
-; Remap caps. 
-F24 & SC028::
-  GetKeyState, cp, CapsLock, T
+F24 & SC073::
+GetKeyState, cp, CapsLock, T
   if cp = D
     SetCapsLockState, AlwaysOff
   else
     SetCapsLockState, AlwaysOn
 return
 
-F24 & SC02B::
-  Reload
-return
-
-; ; bottom row
-
-; F24 & SC056::
-;   Send {CtrlDown}{y}{CtrlUp}
-; return
-
-; F24 & SC02C::
-;   Send {CtrlDown}{z}{CtrlUp}
-; return
-
-; F24 & SC02D::
-;   Send {CtrlDown}{x}{CtrlUp}
-; return
-
-; F24 & SC02E::
-;   Send {CtrlDown}{c}{CtrlUp}
-; return
-
-; F24 & SC02F::
-;   Send {CtrlDown}{v}{CtrlUp}
-; return
-
-; F24 & SC030::
-; return
-
-; F24 & SC031::
-;   mouseclick, left
-; return
-
-; F24 & SC033::
-;   Send {Blind}{F13}
-; return
-
-; F24 & SC034::
-;   Send {Blind}{F14}
-; return
-
-; F24 & SC035::
-;   Send {LWin}
-; return
-
-; ; RAlt cancel caps / nav layer
-
-; RAlt::
-;   GetKeyState, cp, CapsLock, T
-;   if navLayer 
-;   {
-;     navLayer := 0
-;   } 
-;   else if cp = D
-;   {
-;     SetCapsLockState, AlwaysOff
-;   } 
-; Return
