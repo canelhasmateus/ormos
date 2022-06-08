@@ -202,6 +202,13 @@
             "type": "hard",
             "targetRoot": "",
             "targetName": "/software/intellij/idea64.exe.vmoptions"
+        },
+        {
+            "destinationRoot": "$Home",
+            "destinationName": "/.ideavimrc",
+            "type": "hard",
+            "targetRoot": "",
+            "targetName": "/software/intellij/.ideavimrc"
         }
     ]
 }

@@ -54,3 +54,4 @@ org.jetbrains.plugins.javaFX
 org.jetbrains.plugins.vue
 tanvd.grazi
 com.github.copilot
+io.github.mishkun.ideavimsneak

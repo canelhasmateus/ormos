@@ -1,6 +1,15 @@
 .enumerate : Enumerate value
 	ANY   →   enumerate($expr$)
 
+.str : Convert as string
+	ANY   →   str($expr$)$END$
+
+.float : Convert as float
+	ANY   →   float($expr$)$END$
+
+.float : Convert as int
+	ANY   →   int($expr$)$END$
+
 .reversed : Reverse iterable
 	ANY   →   reversed($expr$)
 

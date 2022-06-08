@@ -36,3 +36,17 @@
     
 .new : Instantiation for a class.
     NON_VOID -> new $expr$( $END$ )
+
+
+
+
+.orElse : or else
+	NON_VOID  →  Optional.ofNullable($expr$).orElse($value$)
+
+.orElseGet : or else get
+	NON_VOID  →  Optional.ofNullable($expr$).orElseGet(() -> $supplier$)
+
+.elvis : a ? a : b
+	NON_VOID  →  $expr$ != null ? $expr$ : $END$
+.regEx : compile pattern
+	java.lang.String         →  java.util.regex.Pattern.compile($expr$)
