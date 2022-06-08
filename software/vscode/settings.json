@@ -157,6 +157,5 @@
     },
     "window.title": "${rootName}",
     "workbench.activityBar.iconClickBehavior": "focus",
-    "zenMode.hideActivityBar": false,
-    "editor.columnSelection": true
+    "zenMode.hideActivityBar": false
 }

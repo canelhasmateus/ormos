@@ -1,7 +1,17 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="temp">
-      <shortuct text="ESCAPE" />
+    <macro name="StickyJumpBackwards">
+      <action id="EditorToggleStickySelection" />
+      <action id="AceWordBackwardAction" />
     </macro>
+    <macro name="StickyJumpForward">
+      <action id="EditorToggleStickySelection" />
+      <action id="AceWordForwardAction" />
+    </macro>
+    <macro name="StickyJumpTarget">
+      <action id="EditorToggleStickySelection" />
+      <action id="AceWordStartAction" />
+    </macro>
+    
   </component>
 </application>

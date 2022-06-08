@@ -32,6 +32,7 @@
 **/intellij/options/docker*
 **/intellij/options/dslActivationStatus*
 **/intellij/options/trusted-paths*
+**/intellij/options/vim_settings_local
 
 
 
