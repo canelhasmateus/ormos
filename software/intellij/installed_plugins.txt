@@ -36,3 +36,4 @@ org.jetbrains.plugins.vue
 Pythonid
 ru.meanmail.plugin.requirements
 io.github.mishkun.ideavimsneak
+com.vincentp.gruvbox-theme

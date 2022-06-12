@@ -2,7 +2,7 @@
   <component name="ActionMacroManager">
     <macro name="StickyJumpBackwards">
       <action id="EditorToggleStickySelection" />
-      <action id="AceWordBackwardAction" />
+      <action id="AceWordBackwardsAction" />
     </macro>
     <macro name="StickyJumpForward">
       <action id="EditorToggleStickySelection" />

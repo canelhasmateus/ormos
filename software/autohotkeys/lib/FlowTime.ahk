@@ -2,7 +2,6 @@
 #NoEnv
 #Include %A_ScriptDir%\lib\VisualUtils.ahk
 
-
 ; ----- Pure Utilities
 ToHumanTime( timestamp ) {
     FormatTime, result, %timestamp%, yyyy/MM/dd HH:mm:ss
@@ -27,7 +26,7 @@ SecondsSinceStart( state ) {
     mainTask := state["Tasks"][1]
     timeStart := mainTask["Start"]
     right_now := GetUnixTime()
-    timeSince := Diff( timeStart,  right_now)
+    timeSince := Diff( timeStart, right_now)
     return timeSince
 }
 ApproxMinutesSinceStart( state ) {
@@ -202,15 +201,15 @@ LoadState() {
         Loop, parse, A_LoopReadLine, %A_Tab%
         {
             if ( A_Index == 1 ) {
-                
-                started := ToUnixTime( A_LoopField )         
-                action["Task"]["Start"] :=  started
+
+                started := ToUnixTime( A_LoopField ) 
+                action["Task"]["Start"] := started
             }
             else if ( A_Index == 2 ) {
                 action["Action"] := A_LoopField
             }
             else if ( A_Index == 3 ) {
-                action["Task"]["Name"] :=  A_LoopField 
+                action["Task"]["Name"] := A_LoopField 
             }
             else if ( A_Index == 4 ) {
                 action["Detail"] := A_LoopField
@@ -235,11 +234,10 @@ newDesktop() {
 
 _BreakInstructions( oldState , state) {
 
-
     now := GetUnixTime() 
     breakLength := BreakSize( oldState["Tasks"][ 1 ]["Start"] , now )
     breakEnd := Sum(now , breakLength)
-    
+
     MilliBreak := 1000*breakLength
 
     prefix := breakLength > 0 ? "Relax for " breakLength ".`n" : ""
@@ -261,31 +259,31 @@ _BreakInstructions( oldState , state) {
     return
 }
 
-_RemindFlow(  ) {
+_RemindFlow( ) {
     Remind1:
     Remind2:
     Remind3:
-    global globalState
+        global globalState
 
-    minutePassed := ApproxMinutesSinceStart( globalState )
-    WriteTip( minutePassed "~ minutes since task started." , 10000)
-    SoundChirp()
+        minutePassed := ApproxMinutesSinceStart( globalState )
+        WriteTip( minutePassed "~ minutes since task started." , 10000)
+        SoundChirp()
     return
 }
 _RegisterFlowReminders( state ) {
     if state["Mode"] != "Flow" {
-        return
-    }
-
-    sinceStart := SecondsSinceStart( state )
-    for i , period in [1800 , 3600 , 5400] {
-        untilRing := period - sinceStart
-        if ( untilRing > 0) {
-            milliUntilRing := Ceil( 1000 *  untilRing)
-            SetTimer, Remind%i%, -%milliUntilRing%
-        }    
-    }
     return
+}
+
+sinceStart := SecondsSinceStart( state )
+for i , period in [1800 , 3600 , 5400] {
+    untilRing := period - sinceStart
+    if ( untilRing > 0) {
+        milliUntilRing := Ceil( 1000 * untilRing)
+        SetTimer, Remind%i%, -%milliUntilRing%
+    } 
+}
+return
 
 }
 _FlowInstructions( state ) {
@@ -296,7 +294,6 @@ _FlowInstructions( state ) {
     _RegisterFlowReminders( state )
     return state
 
-    
 }
 ChooseAction( message , options) {
     choice := GatherChoice( message, options)
@@ -324,7 +321,7 @@ ChooseTask( message ) {
     {
         if (A_LoopReadLine) {
             choices.Push(A_LoopReadLine) 
-        }        
+        } 
     }
 
     task := AutoCompletingListView( message , choices)

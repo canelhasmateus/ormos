@@ -5,6 +5,27 @@
         <entry encoding="base64">aHJlZg==</entry>
         <entry encoding="base64">aHJl</entry>
         <entry encoding="base64">bWk=</entry>
+        <entry encoding="base64">Zmli</entry>
+        <entry encoding="base64">XDxmaWJcPg==</entry>
+        <entry encoding="base64">c2NyaXB0</entry>
+        <entry encoding="base64">PHNjcmlwdA==</entry>
+        <entry encoding="base64">c3R5bGU=</entry>
+        <entry encoding="base64">PHN0eWxl</entry>
+        <entry encoding="base64">XDw6XD4=</entry>
+        <entry encoding="base64">cw==</entry>
+        <entry encoding="base64">LA==</entry>
+        <entry encoding="base64">cA==</entry>
+        <entry encoding="base64">cGFy</entry>
+        <entry encoding="base64">dGVzdA==</entry>
+        <entry encoding="base64">XDx0ZXN0MVw+</entry>
+        <entry encoding="base64">XDxUZXN0U29sdXRpb25cPg==</entry>
+        <entry encoding="base64">XDxudW1zXD4=</entry>
+        <entry encoding="base64">Y2hhcg==</entry>
+        <entry encoding="base64">KQ==</entry>
+        <entry encoding="base64">aGlzdG9yeQ==</entry>
+        <entry encoding="base64">SGlzdA==</entry>
+        <entry encoding="base64">bGltaQ==</entry>
+        <entry encoding="base64">bGltaXQ=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aGVscCAndmlzdWFsYmVsbCc=</entry>
@@ -12,14 +33,33 @@
         <entry encoding="base64">c2V0IHZpc3VhbGJlbGw=</entry>
         <entry encoding="base64">c2V0IHNvdW5kYmVsbA==</entry>
         <entry encoding="base64">c2V0IGJlbGw=</entry>
-        <entry encoding="base64">c291cmNl</entry>
         <entry encoding="base64">cmVn</entry>
         <entry encoding="base64">IQ==</entry>
         <entry encoding="base64">ISBlY2hvIDI=</entry>
         <entry encoding="base64">ISBncmVwIGE=</entry>
         <entry encoding="base64">QA==</entry>
+        <entry encoding="base64">aGVscA==</entry>
+        <entry encoding="base64">YWN0aW9uIElkZWFWaW0uUmVsb2FkVmltUmMucmVsb2Fk</entry>
+        <entry encoding="base64">c291cmNl</entry>
+        <entry encoding="base64">ZSB+Ly5pZGVhdmltcmM=</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdA==</entry>
         <entry encoding="base64">aW5kZXg=</entry>
+        <entry encoding="base64">aW1hcA==</entry>
+        <entry encoding="base64">bm1hcA==</entry>
         <entry encoding="base64">bWFw</entry>
+        <entry encoding="base64">aGVscCBpbmRleA==</entry>
+        <entry encoding="base64">bWFwIA==</entry>
+        <entry encoding="base64">bWFwIGo=</entry>
+        <entry encoding="base64">bWFwIGE=</entry>
+        <entry encoding="base64">dmltdHV0b3I=</entry>
+        <entry encoding="base64">aGVscCBp</entry>
+        <entry encoding="base64">aGVscCBh</entry>
+        <entry encoding="base64">ZSB+XC5pZGVhdmltcmM=</entry>
+        <entry encoding="base64">LiFlY2hv</entry>
+        <entry encoding="base64">JzwsJz4hZWNobw==</entry>
+        <entry encoding="base64">b21hcA==</entry>
+        <entry encoding="base64">MTA=</entry>
+        <entry encoding="base64">MTAtMjA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -34,69 +74,62 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1654710266399">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" timestamp="1654890384262">
+        <mark key="'" line="454" column="8" />
+        <mark key="[" line="704" column="0" />
+        <mark key="]" line="704" column="0" />
+        <mark key="." line="704" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1654901123429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/utils/monad.py" timestamp="1654629975769">
-        <mark key="[" line="52" column="29" />
-      </file>
-      <file name="/fragment.py" timestamp="1654710266400">
+      <file name="/fragment.py" timestamp="1654901123431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/domain.py" timestamp="1654709841062">
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="85" column="5" />
-        <mark key="^" line="85" column="5" />
-        <mark key="." line="85" column="6" />
-      </file>
-      <file name="/a.py" timestamp="1654710266400">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/domain.py" timestamp="1654804212930">
+        <mark key="[" line="116" column="59" />
+        <mark key="]" line="116" column="77" />
+        <mark key="^" line="116" column="77" />
+        <mark key="." line="116" column="76" />
       </file>
       <file name="/a.dummy" timestamp="1654709848454">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.html" timestamp="1654642730645">
+      <file name="/a.py" timestamp="1654901123430">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/persistence.py" timestamp="1654629505906">
-        <mark key="[" line="71" column="17" />
-        <mark key="]" line="71" column="17" />
-        <mark key="." line="71" column="17" />
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/test/test_youtube.py" timestamp="1654892039667">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" timestamp="1654625679632">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/test_data/test_youtube_1.html" timestamp="1654891890069">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" timestamp="1654631542403">
-        <mark key="a" line="56" column="40" />
-        <mark key="'" line="56" column="45" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="40" />
-        <mark key="^" line="41" column="1" />
-        <mark key="." line="56" column="40" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1655068576747">
+        <mark key="p" line="44" column="0" />
+        <mark key="a" line="47" column="0" />
+        <mark key="'" line="53" column="16" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="54" column="1" />
+        <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/canelhasio/src/main/App.svelte" timestamp="1654626745896">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/tst.py" timestamp="1654890495619">
+        <mark key="[" line="777" column="0" />
+        <mark key="]" line="777" column="0" />
+        <mark key="." line="777" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1654709878973">
-        <mark key="p" line="43" column="0" />
-        <mark key="a" line="46" column="0" />
-        <mark key="'" line="43" column="22" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/drafts/index.svelte" timestamp="1654625507544">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" timestamp="1655059387887">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/prefectorch.py" timestamp="1654709694767">
         <mark key="'" line="41" column="0" />
@@ -105,30 +138,45 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" timestamp="1654710632373">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="27" />
-        <mark key="^" line="52" column="27" />
-        <mark key="." line="52" column="26" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.html" timestamp="1654644007337">
         <mark key="[" line="216" column="43" />
         <mark key="]" line="216" column="43" />
         <mark key="." line="216" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/blog/index.svelte" timestamp="1654627082693">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" timestamp="1654901120504">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="334" column="4" />
+        <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" timestamp="1654630183187">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" timestamp="1655067374510">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="38" column="1" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" timestamp="1655073740306">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/prefect_workflow.py" timestamp="1654804307149">
+        <mark key="e" line="49" column="19" />
+        <mark key="'" line="49" column="19" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="19" />
+        <mark key="^" line="49" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" timestamp="1655056737822">
+        <mark key="'" line="22" column="68" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="70" column="5" />
+        <mark key="." line="70" column="4" />
+        <mark key="^" line="70" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" timestamp="1654710129124">
         <mark key="'" line="8" column="31" />
@@ -139,115 +187,267 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="4" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/drafts/index.svelte" />
-      <jump line="2" column="3" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/drafts/index.svelte" />
-      <jump line="0" column="2" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/drafts/index.svelte" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="3" column="7" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="4" column="7" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="1" column="7" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="2" column="7" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/routes/__layout.svelte" />
-      <jump line="24" column="8" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/App.svelte" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="10" column="24" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="15" column="15" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="6" column="5" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="14" column="15" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="9" column="30" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="21" column="7" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/canelhasio/src/main/components/Sidebar.svelte" />
-      <jump line="0" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="39" column="35" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="38" column="27" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="33" column="33" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="583" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="584" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="586" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="612" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="739" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="742" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="743" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="490" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="579" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="580" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="707" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="455" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.html" />
+      <jump line="28" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/test_data/test_youtube_1.html" />
+      <jump line="131" column="21" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="172" column="42" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="342" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="49" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="33" column="29" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="1" column="4" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="11" column="15" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="5" column="14" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="22" column="68" filename="$USER_HOME$/Desktop/workspace/leet/leet/problems/0917/Solution.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
       <jump line="47" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/.ideavimrc" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="46" column="22" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="55" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="56" column="45" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/beamorch.py" />
-      <jump line="212" column="19" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/orchestration/prefectorch.py" />
-      <jump line="8" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" />
-      <jump line="39" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="50" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="60" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="81" column="4" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/OneDrive/gnosis/roi/src/processing/web/logic.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="52" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="14" column="4" filename="$USER_HOME$/Desktop/workspace/leet/grind/w01e01.py" />
+      <jump line="28" column="55" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="37" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="33" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="31" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="27" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="24" column="4" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="10" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="7" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="6" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="2" column="50" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="14" column="12" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="18" column="35" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="24" column="27" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="26" column="4" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="20" column="8" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="4" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="5" column="27" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="6" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="9" column="2" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="13" column="4" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="9" column="12" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="11" column="9" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler002.scala" />
+      <jump line="16" column="55" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/leet/oEuler/src/main/scala/Euler001.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aQ==</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="9" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="35" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="180" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="35" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="35" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="9" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFV0aWxzLntQYWlyLCBzdW1PZlByb2dyZXNzaW9ufQoKb2JqZWN0IEV1bGVyMDAxIHsKCiAgLy9JZiB3ZSBsaXN0IGFsbCB0aGUgbmF0dXJhbCBudW1iZXJzIGJlbG93IDEwIHRoYXQgYXJlIG11bHRpcGxlcyBvZiAzIG9yIDUsCiAgLy8gd2UgZ2V0IDMsIDUsIDYgYW5kIDkuIFRoZSBzdW0gb2YgdGhlc2UgbXVsdGlwbGVzIGlzIDIzLgogIC8vCiAgLy9GaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCgpkZWYgbmFpdmUoY2VpbDogQmlnSW50LCBmYWN0b3JzOiBMaXN0W0JpZ0ludF0gPSBMaXN0KDMsIDUpKTogQmlnSW50ID0gewogIHR5cGUgUHJlZGljYXRlW1RdID0gVCA9PiBCb29sZWFuCiAgcHB2CgogIHZhbCBmdW5jdGlvbnM6IExpc3RbUHJlZGljYXRlW0JpZ0ludF1dID0gZmFjdG9ycy5tYXAoZiA9PiB7IChuKSA9PiBuICUgZiA9PSAwIH0pCgogICAgICB2YWwgaXNJbnRlcmVzdGluZyA9IGZ1bmN0aW9ucy5yZWR1Y2UoKGYsIGcpID0+IHsgbiA9PiBmKG4pIHx8IGcobikgfSkKICAgICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgICAgICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQoKfQoKICBkZWYgZmFzdChjZWlsOiBCaWdJbnQsIGZhY3RvcnM6IExpc3RbQmlnSW50XSA9IExpc3QoMywgNSkpOiBCaWdJbnQgPSB7CgogICAgdmFsIG11bHRpcGxlcyA9IFV0aWxzLnBhaXJzKGZhY3RvcnMuZGlzdGluY3QpLm1hcCgoeDogUGFpcltCaWdJbnRdKSA9PiB4Ll8xICogeC5fMikKCiAgICB2YWwgc3VtT2ZGYWN0b3JzID0gZmFjdG9ycy5tYXAoVXRpbHMuc3VtT2ZQcm9ncmVzc2lvbihjZWlsLCBfKSkuc3VtCgogICAgdmFsIHN1bU9mTXVsdGlwbGVzID0gbXVsdGlwbGVzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICByZXR1cm4gc3VtT2ZGYWN0b3JzIC0gc3VtT2ZNdWx0aXBsZXMKICB9CgoKfQo=</text>
+      </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aQ==</text>
+        <text encoding="base64">dg==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">c3Np</text>
+        <text encoding="base64">cHA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">bWk=</text>
+        <text encoding="base64">bGltaXQ=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGJhY2tlbmRfYyAgLCBnYyAsIGNhc3QgLCBmYWlsX2NvbXBpbGUgLCBjb2RlZ2VuIA==</text>
+        <text encoding="base64">TGlzdFtQcmVkaWNhdGVbQmlnSW50XV0gPSBmYWN0b3JzLm1hcChmID0+IHsgKG4pID0+IG4gJSBmID09IDAgfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgUyAgICAgICAgICAgICA8UGx1Zz5WU3Vycm91bmQK</text>
+        <text encoding="base64">aW1wb3J0IFV0aWxzLntQYWlyLCBzdW1PZlByb2dyZXNzaW9ufQoKb2JqZWN0IEV1bGVyMDAxIHsKCiAgLy9JZiB3ZSBsaXN0IGFsbCB0aGUgbmF0dXJhbCBudW1iZXJzIGJlbG93IDEwIHRoYXQgYXJlIG11bHRpcGxlcyBvZiAzIG9yIDUsCiAgLy8gd2UgZ2V0IDMsIDUsIDYgYW5kIDkuIFRoZSBzdW0gb2YgdGhlc2UgbXVsdGlwbGVzIGlzIDIzLgogIC8vCiAgLy9GaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCgpkZWYgbmFpdmUoY2VpbDogQmlnSW50LCBmYWN0b3JzOiBMaXN0W0JpZ0ludF0gPSBMaXN0KDMsIDUpKTogQmlnSW50ID0gewogIHR5cGUgUHJlZGljYXRlW1RdID0gVCA9PiBCb29sZWFuCiAgcHB2CgogIHZhbCBmdW5jdGlvbnM6IExpc3RbUHJlZGljYXRlW0JpZ0ludF1dID0gZmFjdG9ycy5tYXAoZiA9PiB7IChuKSA9PiBuICUgZiA9PSAwIH0pCgogICAgICB2YWwgaXNJbnRlcmVzdGluZyA9IGZ1bmN0aW9ucy5yZWR1Y2UoKGYsIGcpID0+IHsgbiA9PiBmKG4pIHx8IGcobikgfSkKICAgICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgICAgICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQoKfQoKICBkZWYgZmFzdChjZWlsOiBCaWdJbnQsIGZhY3RvcnM6IExpc3RbQmlnSW50XSA9IExpc3QoMywgNSkpOiBCaWdJbnQgPSB7CgogICAgdmFsIG11bHRpcGxlcyA9IFV0aWxzLnBhaXJzKGZhY3RvcnMuZGlzdGluY3QpLm1hcCgoeDogUGFpcltCaWdJbnRdKSA9PiB4Ll8xICogeC5fMikKCiAgICB2YWwgc3VtT2ZGYWN0b3JzID0gZmFjdG9ycy5tYXAoVXRpbHMuc3VtT2ZQcm9ncmVzc2lvbihjZWlsLCBfKSkuc3VtCgogICAgdmFsIHN1bU9mTXVsdGlwbGVzID0gbXVsdGlwbGVzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICByZXR1cm4gc3VtT2ZGYWN0b3JzIC0gc3VtT2ZNdWx0aXBsZXMKICB9CgoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+ZCA8QWN0aW9uPihEZWJ1ZykK</text>
+        <text encoding="base64">ICAgIHZhbCBpc0ludGVyZXN0aW5nID0gZnVuY3Rpb25zLnJlZHVjZSgoZiwgZykgPT4geyBuID0+IGYobikgfHwgZyhuKSB9KQogICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgICAgICByZXR1cm4gcmFuZ2UuZmlsdGVyKGlzSW50ZXJlc3RpbmcpLnJlZHVjZShfICsgXykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFwIDxsZWFkZXI+ZCA8QWN0aW9uPihEZWJ1ZykK</text>
+        <text encoding="base64">aW1wb3J0IFV0aWxzLntQYWlyLCBzdW1PZlByb2dyZXNzaW9ufQoKb2JqZWN0IEV1bGVyMDAxIHsKCiAgLy9JZiB3ZSBsaXN0IGFsbCB0aGUgbmF0dXJhbCBudW1iZXJzIGJlbG93IDEwIHRoYXQgYXJlIG11bHRpcGxlcyBvZiAzIG9yIDUsCiAgLy8gd2UgZ2V0IDMsIDUsIDYgYW5kIDkuIFRoZSBzdW0gb2YgdGhlc2UgbXVsdGlwbGVzIGlzIDIzLgogIC8vCiAgLy9GaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCgogIGRlZiBuYWl2ZShjZWlsOiBCaWdJbnQsIGZhY3RvcnM6IExpc3RbQmlnSW50XSA9IExpc3QoMywgNSkpOiBCaWdJbnQgPSB7CiAgICB0eXBlIFByZWRpY2F0ZVtUXSA9IFQgPT4gQm9vbGVhbgoKICAgIHZhbCBmdW5jdGlvbnM6IExpc3RbUHJlZGljYXRlW0JpZ0ludF1dID0gZmFjdG9ycy5tYXAoZiA9PiB7IChuKSA9PiBuICUgZiA9PSAwIH0pCgogICAgdmFsIGlzSW50ZXJlc3RpbmcgPSBmdW5jdGlvbnMucmVkdWNlKChmLCBnKSA9PiB7IG4gPT4gZihuKSB8fCBnKG4pIH0pCiAgICB2YWwgcmFuZ2U6IFNlcVtCaWdJbnRdID0gTGlzdC5yYW5nZSgwLCBjZWlsKQogICAgICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBzdGF0aWNtZXRob2QJCg==</text>
+        <text encoding="base64">aW1wb3J0IFV0aWxzLntQYWlyLCBzdW1PZlByb2dyZXNzaW9ufQoKb2JqZWN0IEV1bGVyMDAxIHsKCiAgLy9JZiB3ZSBsaXN0IGFsbCB0aGUgbmF0dXJhbCBudW1iZXJzIGJlbG93IDEwIHRoYXQgYXJlIG11bHRpcGxlcyBvZiAzIG9yIDUsCiAgLy8gd2UgZ2V0IDMsIDUsIDYgYW5kIDkuIFRoZSBzdW0gb2YgdGhlc2UgbXVsdGlwbGVzIGlzIDIzLgogIC8vCiAgLy9GaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCgogIGRlZiBuYWl2ZShjZWlsOiBCaWdJbnQsIGZhY3RvcnM6IExpc3RbQmlnSW50XSA9IExpc3QoMywgNSkpOiBCaWdJbnQgPSB7CiAgICB0eXBlIFByZWRpY2F0ZVtUXSA9IFQgPT4gQm9vbGVhbgoKICAgIHZhbCBmdW5jdGlvbnM6IExpc3RbUHJlZGljYXRlW0JpZ0ludF1dID0gZmFjdG9ycy5tYXAoZiA9PiB7IChuKSA9PiBuICUgZiA9PSAwIH0pCgogICAgdmFsIGlzSW50ZXJlc3RpbmcgPSBmdW5jdGlvbnMucmVkdWNlKChmLCBnKSA9PiB7IG4gPT4gZihuKSB8fCBnKG4pIH0pCiAgICB2YWwgcmFuZ2U6IFNlcVtCaWdJbnRdID0gTGlzdC5yYW5nZSgwLCBjZWlsKQogICAgICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKCB3aW5kb3cueXRjc2kgKSB7CgkJd2luZG93Lnl0Y3NpLnRpY2soXCdiY1wnLCBudWxsLCBcJ1wnKTt9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCByYW5nZTogU2VxW0JpZ0ludF0gPSBMaXN0LnJhbmdlKDAsIGNlaWwpCiAgICByZXR1cm4gcmFuZ2UuZmlsdGVyKGlzSW50ZXJlc3RpbmcpLnJlZHVjZShfICsgXykKCiAgfQoKICBkZWYgZmFzdChjZWlsOiBCaWdJbnQsIGZhY3RvcnM6IExpc3RbQmlnSW50XSA9IExpc3QoMywgNSkpOiBCaWdJbnQgPSB7CgogICAgdmFsIG11bHRpcGxlcyA9IFV0aWxzLnBhaXJzKGZhY3RvcnMuZGlzdGluY3QpLm1hcCgoeDogUGFpcltCaWdJbnRdKSA9PiB4Ll8xICogeC5fMikKCiAgICB2YWwgc3VtT2ZGYWN0b3JzID0gZmFjdG9ycy5tYXAoVXRpbHMuc3VtT2ZQcm9ncmVzc2lvbihjZWlsLCBfKSkuc3VtCgogICAgdmFsIHN1bU9mTXVsdGlwbGVzID0gbXVsdGlwbGVzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICByZXR1cm4gc3VtT2ZGYWN0b3JzIC0gc3VtT2ZNdWx0aXBsZXMKICB9CgoKfQo=</text>
       </register>
       <register name="u" type="4">
         <text encoding="base64">ZGlbaGhwZGZd</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aHRtbCB7CgkJYmFja2dyb3VuZC1jb2xvcjogI2Y5ZjlmOSAhaW1wb3J0YW50OwoJCS13ZWJraXQtdGV4dC1zaXplLWFkanVzdDogbm9uZQoJfQoKCWh0bWxbZGFya2VyLWRhcmstdGhlbWVdIHsKCQliYWNrZ3JvdW5kLWNvbG9yOiAjZmZmICFpbXBvcnRhbnQKCX0KCglodG1sW2RhcmtdIHsKCQliYWNrZ3JvdW5kLWNvbG9yOiAjMTgxODE4ICFpbXBvcnRhbnQKCX0KCglodG1sW2Rhcmtlci1kYXJrLXRoZW1lXVtkYXJrXSB7CgkJYmFja2dyb3VuZC1jb2xvcjogIzBmMGYwZiAhaW1wb3J0YW50Cgl9CgoJI2xvZ28tcmVkLWljb24tY29udGFpbmVyLnl0ZC10b3BiYXItbG9nby1yZW5kZXJlciB7CgkJd2lkdGg6IDg2cHgKCX0KCglcbgoKCS8qIyBzb3VyY2VNYXBwaW5nVVJMPWtldmxhcl9nbG9iYWxfc3R5bGVzX3Nhc3MuY3NzLm1hcCAqLw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBpc0ludGVyZXN0aW5nID0gZnVuY3Rpb25zLnJlZHVjZSgoZiwgZykgPT4geyBuID0+IGYobikgfHwgZyhuKSB9KQogICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQoKICB9CgogIGRlZiBmYXN0KGNlaWw6IEJpZ0ludCwgZmFjdG9yczogTGlzdFtCaWdJbnRdID0gTGlzdCgzLCA1KSk6IEJpZ0ludCA9IHsKCiAgICB2YWwgbXVsdGlwbGVzID0gVXRpbHMucGFpcnMoZmFjdG9ycy5kaXN0aW5jdCkubWFwKCh4OiBQYWlyW0JpZ0ludF0pID0+IHguXzEgKiB4Ll8yKQoKICAgIHZhbCBzdW1PZkZhY3RvcnMgPSBmYWN0b3JzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICB2YWwgc3VtT2ZNdWx0aXBsZXMgPSBtdWx0aXBsZXMubWFwKFV0aWxzLnN1bU9mUHJvZ3Jlc3Npb24oY2VpbCwgXykpLnN1bQoKICAgIHJldHVybiBzdW1PZkZhY3RvcnMgLSBzdW1PZk11bHRpcGxlcwogIH0KCgp9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">I3NlYXJjaC1pbnB1dC55dGQtc2VhcmNoYm94LXNwdCBpbnB1dCB7CgkJLXdlYmtpdC1hcHBlYXJhbmNlOiBub25lOwoJCS13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwoJCWJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwoJCWJvcmRlcjogbm9uZTsKCQlib3gtc2hhZG93OiBub25lOwoJCWNvbG9yOiBpbmhlcml0OwoJCWZvbnQtZmFtaWx5OiBSb2JvdG8sIE5vdG8sIHNhbnMtc2VyaWY7CgkJZm9udC1zaXplOiAxNnB4OwoJCWZvbnQtd2VpZ2h0OiA0MDA7CgkJbGluZS1oZWlnaHQ6IDI0cHg7CgkJbWFyZ2luLWxlZnQ6IDRweDsKCQltYXgtd2lkdGg6IDEwMCU7CgkJb3V0bGluZTogbm9uZTsKCQl0ZXh0LWFsaWduOiBpbmhlcml0OwoJCXdpZHRoOiAxMDAlOwoJCS1tcy1mbGV4OiAxIDEgMC4wMDAwMDAwMDFweDsKCQktd2Via2l0LWZsZXg6IDE7CgkJLXdlYmtpdC1ib3gtZmxleDogMTsKCQktbW96LWJveC1mbGV4OiAxOwoJCWZsZXg6IDE7CgkJLXdlYmtpdC1mbGV4LWJhc2lzOiAwLjAwMDAwMDAwMXB4OwoJCS1tcy1mbGV4LXByZWZlcnJlZC1zaXplOiAwLjAwMDAwMDAwMXB4OwoJCWZsZXgtYmFzaXM6IDAuMDAwMDAwMDAxcHgKCX0KCgkjc2VhcmNoLWNvbnRhaW5lci55dGQtc2VhcmNoYm94LXNwdCB7CgkJcG9pbnRlci1ldmVudHM6IG5vbmU7CgkJcG9zaXRpb246IGFic29sdXRlOwoJCXRvcDogMDsKCQlyaWdodDogMDsKCQlib3R0b206IDA7CgkJbGVmdDogMAoJfQoKCSNzZWFyY2gtaW5wdXQueXRkLXNlYXJjaGJveC1zcHQgI3NlYXJjaDo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciB7CgkJY29sb3I6ICM4ODgKCX0KCgkjc2VhcmNoLWlucHV0Lnl0ZC1zZWFyY2hib3gtc3B0ICNzZWFyY2g6Oi1tb3otaW5wdXQtcGxhY2Vob2xkZXIgewoJCWNvbG9yOiAjODg4Cgl9CgoJI3NlYXJjaC1pbnB1dC55dGQtc2VhcmNoYm94LXNwdCAjc2VhcmNoOi1tcy1pbnB1dC1wbGFjZWhvbGRlciB7CgkJY29sb3I6ICM4ODgKCX0KCglcbgoKCS8qIyBzb3VyY2VNYXBwaW5nVVJMPXNlYXJjaGJveF9zYXNzLmNzcy5tYXAgKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBpc0ludGVyZXN0aW5nID0gZnVuY3Rpb25zLnJlZHVjZSgoZiwgZykgPT4geyBuID0+IGYobikgfHwgZyhuKSB9KQogICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQoKICB9CgogIGRlZiBmYXN0KGNlaWw6IEJpZ0ludCwgZmFjdG9yczogTGlzdFtCaWdJbnRdID0gTGlzdCgzLCA1KSk6IEJpZ0ludCA9IHsKCiAgICB2YWwgbXVsdGlwbGVzID0gVXRpbHMucGFpcnMoZmFjdG9ycy5kaXN0aW5jdCkubWFwKCh4OiBQYWlyW0JpZ0ludF0pID0+IHguXzEgKiB4Ll8yKQoKICAgIHZhbCBzdW1PZkZhY3RvcnMgPSBmYWN0b3JzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICB2YWwgc3VtT2ZNdWx0aXBsZXMgPSBtdWx0aXBsZXMubWFwKFV0aWxzLnN1bU9mUHJvZ3Jlc3Npb24oY2VpbCwgXykpLnN1bQoKICAgIHJldHVybiBzdW1PZkZhY3RvcnMgLSBzdW1PZk11bHRpcGxlcwogIH0KCgp9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eXRkLW1hc3RoZWFkIC55dC1pY29ucy1leHQgewoJCWNvbG9yOiB2YXIoLS15dC1zcGVjLWljb24tYWN0aXZlLW90aGVyKQoJfQoKCXl0ZC1tYXN0aGVhZCBzdmcjeXQtbG9nby1yZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQgc3ZnI3l0LWxvZ28tcmVkLXVwZGF0ZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQgc3ZnI3l0LWxvZ28tc3ZnICN5b3V0dWJlLXBhdGhzIHBhdGgsIHl0ZC1tYXN0aGVhZCBzdmcjeXQtbG9nby11cGRhdGVkLXN2ZyAjeW91dHViZS1wYXRocyBwYXRoIHsKCQlmaWxsOiAjMjgyODI4Cgl9CgoJeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tcmVkLXN2ZyAjeW91dHViZS1yZWQtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tcmVkLXVwZGF0ZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQuZGFyayBzdmcjeXQtbG9nby1zdmcgI3lvdXR1YmUtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tdXBkYXRlZC1zdmcgI3lvdXR1YmUtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLnRoZWF0ZXIgc3ZnI3l0LWxvZ28tcmVkLXN2ZyAjeW91dHViZS1yZWQtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLnRoZWF0ZXIgc3ZnI3l0LWxvZ28tc3ZnICN5b3V0dWJlLXBhdGhzIHBhdGggewoJCWZpbGw6ICNmZmYKCX0KCglcbgoKCS8qIyBzb3VyY2VNYXBwaW5nVVJMPW1hc3RoZWFkX2N1c3RvbV9zdHlsZXNfc2Fzcy5jc3MubWFwICov</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBpc0ludGVyZXN0aW5nID0gZnVuY3Rpb25zLnJlZHVjZSgoZiwgZykgPT4geyBuID0+IGYobikgfHwgZyhuKSB9KQogICAgdmFsIHJhbmdlOiBTZXFbQmlnSW50XSA9IExpc3QucmFuZ2UoMCwgY2VpbCkKICAgIHJldHVybiByYW5nZS5maWx0ZXIoaXNJbnRlcmVzdGluZykucmVkdWNlKF8gKyBfKQoKICB9CgogIGRlZiBmYXN0KGNlaWw6IEJpZ0ludCwgZmFjdG9yczogTGlzdFtCaWdJbnRdID0gTGlzdCgzLCA1KSk6IEJpZ0ludCA9IHsKCiAgICB2YWwgbXVsdGlwbGVzID0gVXRpbHMucGFpcnMoZmFjdG9ycy5kaXN0aW5jdCkubWFwKCh4OiBQYWlyW0JpZ0ludF0pID0+IHguXzEgKiB4Ll8yKQoKICAgIHZhbCBzdW1PZkZhY3RvcnMgPSBmYWN0b3JzLm1hcChVdGlscy5zdW1PZlByb2dyZXNzaW9uKGNlaWwsIF8pKS5zdW0KCiAgICB2YWwgc3VtT2ZNdWx0aXBsZXMgPSBtdWx0aXBsZXMubWFwKFV0aWxzLnN1bU9mUHJvZ3Jlc3Npb24oY2VpbCwgXykpLnN1bQoKICAgIHJldHVybiBzdW1PZkZhY3RvcnMgLSBzdW1PZk11bHRpcGxlcwogIH0KCgp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">eXRkLW1hc3RoZWFkIC55dC1pY29ucy1leHQgewoJCWNvbG9yOiB2YXIoLS15dC1zcGVjLWljb24tYWN0aXZlLW90aGVyKQoJfQoKCXl0ZC1tYXN0aGVhZCBzdmcjeXQtbG9nby1yZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQgc3ZnI3l0LWxvZ28tcmVkLXVwZGF0ZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQgc3ZnI3l0LWxvZ28tc3ZnICN5b3V0dWJlLXBhdGhzIHBhdGgsIHl0ZC1tYXN0aGVhZCBzdmcjeXQtbG9nby11cGRhdGVkLXN2ZyAjeW91dHViZS1wYXRocyBwYXRoIHsKCQlmaWxsOiAjMjgyODI4Cgl9CgoJeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tcmVkLXN2ZyAjeW91dHViZS1yZWQtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tcmVkLXVwZGF0ZWQtc3ZnICN5b3V0dWJlLXJlZC1wYXRocyBwYXRoLCB5dGQtbWFzdGhlYWQuZGFyayBzdmcjeXQtbG9nby1zdmcgI3lvdXR1YmUtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLmRhcmsgc3ZnI3l0LWxvZ28tdXBkYXRlZC1zdmcgI3lvdXR1YmUtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLnRoZWF0ZXIgc3ZnI3l0LWxvZ28tcmVkLXN2ZyAjeW91dHViZS1yZWQtcGF0aHMgcGF0aCwgeXRkLW1hc3RoZWFkLnRoZWF0ZXIgc3ZnI3l0LWxvZ28tc3ZnICN5b3V0dWJlLXBhdGhzIHBhdGggewoJCWZpbGw6ICNmZmYKCX0KCglcbgoKCS8qIyBzb3VyY2VNYXBwaW5nVVJMPW1hc3RoZWFkX2N1c3RvbV9zdHlsZXNfc2Fzcy5jc3MubWFwICov</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBpc0ludGVyZXN0aW5nID0gZnVuY3Rpb25zLnJlZHVjZSgoZiwgZykgPT4geyBuID0+IGYobikgfHwgZyhuKSB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">bWFw</text>
+        <text encoding="base64">MTAtMjA=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">bWk=</last-search>
-      <last-pattern encoding="base64">bWk=</last-pattern>
+      <last-search encoding="base64">bGltaXQ=</last-search>
+      <last-pattern encoding="base64">bGltaXQ=</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

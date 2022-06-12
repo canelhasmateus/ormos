@@ -1,0 +1,54 @@
+   <S- >         <Action>(GotoNextError)
+n  <A-N>         <Plug>NextWholeOccurrence
+   <A-P>         <Plug>RemoveOccurrence
+   <A-X>         <Plug>SkipOccurrence
+n  <Plug>(CommentLine) * call com.maddyhome.idea.vim.extension.commentary.CommentaryExtension.CommentLineHandler
+n  <Plug>(CommentMotion) * call com.maddyhome.idea.vim.extension.commentary.CommentaryExtension.CommentMotionHandler
+   <Plug>(CommentMotionV) * call com.maddyhome.idea.vim.extension.commentary.CommentaryExtension.CommentMotionVHandler
+n  <Plug>AllOccurrences * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.AllOccurrencesHandler
+n  <Plug>AllWholeOccurrences * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.AllOccurrencesHandler
+n  <Plug>CSurround * call com.maddyhome.idea.vim.extension.surround.VimSurroundExtension.CSurroundHandler
+n  <Plug>DSurround * call com.maddyhome.idea.vim.extension.surround.VimSurroundExtension.DSurroundHandler
+   <Plug>InnerArgument * call com.maddyhome.idea.vim.extension.argtextobj.VimArgTextObjExtension.ArgumentHandler
+n  <Plug>NextOccurrence * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.NextOccurrenceHandler
+n  <Plug>NextWholeOccurrence * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.NextOccurrenceHandler
+   <Plug>OuterArgument * call com.maddyhome.idea.vim.extension.argtextobj.VimArgTextObjExtension.ArgumentHandler
+   <Plug>RemoveOccurrence * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.RemoveOccurrenceHandler
+n  <Plug>ReplaceWithRegisterLine * call com.maddyhome.idea.vim.extension.replacewithregister.ReplaceWithRegister.RwrLine
+n  <Plug>ReplaceWithRegisterOperator * call com.maddyhome.idea.vim.extension.replacewithregister.ReplaceWithRegister.RwrMotion
+   <Plug>ReplaceWithRegisterVisual * call com.maddyhome.idea.vim.extension.replacewithregister.ReplaceWithRegister.RwrVisual
+   <Plug>SkipOccurrence * call com.maddyhome.idea.vim.extension.multiplecursors.VimMultipleCursorsExtension.SkipOccurrenceHandler
+   <Plug>VSurround * call com.maddyhome.idea.vim.extension.surround.VimSurroundExtension.VSurroundHandler
+n  <Plug>YSurround * call com.maddyhome.idea.vim.extension.surround.VimSurroundExtension.YSurroundHandler
+   <Plug>textobj-entire-a * call com.maddyhome.idea.vim.extension.textobjentire.VimTextObjEntireExtension.EntireHandler
+   <Plug>textobj-entire-i * call com.maddyhome.idea.vim.extension.textobjentire.VimTextObjEntireExtension.EntireHandler
+    a            <Action>(Annotate)
+    b            <Action>(ToggleLineBreakpoint)
+    c            <Action>(Stop)
+    f            <Action>(AceWordStartAction)
+    h            <Action>(Vcs.ShowTabbedFileHistory)
+    i            :e ~/.ideavimrc<CR>
+    o            <Action>(FileStructurePopup)
+    q            :e ~/.ideavimrc<CR>
+n   qq         * :e ~/.ideavimrc<CR>
+n   qr         * :action IdeaVim.ReloadVimRc.reload<CR>
+    r            <Action>(IdeaVim.ReloadVimRc.reload)
+    s            <Action>(SelectInProjectView)
+    vim          :e ~\.ideavimrc<CR>
+    z            <Action>(ToggleDistractionFreeMode)
+   S             <Plug>VSurround
+n  \e          * :e ~/.ideavimrc<CR>
+n  \r          * :action IdeaVim.ReloadVimRc.reload<CR>
+   aa            <Plug>OuterArgument
+   ae            <Plug>textobj-entire-a
+n  cs            <Plug>CSurround
+n  ds            <Plug>DSurround
+n  g<A-N>        <Plug>NextOccurrence
+n  gc            <Plug>(CommentMotion)
+n  gcc           <Plug>(CommentLine)
+n  gr            <Plug>ReplaceWithRegisterOperator
+n  grr           <Plug>ReplaceWithRegisterLine
+   ia            <Plug>InnerArgument
+   ie            <Plug>textobj-entire-i
+   rn            <Action>(RenameElement)
+n  ys            <Plug>YSurround

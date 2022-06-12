@@ -5,9 +5,8 @@ SetWorkingDir, %A_ScriptDir%
 #Include %A_ScriptDir%\lib\Gnosis.ahk
 #Include %A_ScriptDir%\lib\VisualUtils.ahk
 #Include %A_ScriptDir%\lib\Flowtime.ahk
-<^>!SC029::
-  Reload
-return
+
+
 <^>!SC01E:: 
   {
     ; AltGr + "A"
@@ -46,10 +45,7 @@ return
     }
     else if ( pressedKey = "i") { 
       WinMaximize, A
-    }
-    else if (pressedKey = "x"){
-      ;todo : Delete all workspaces
-    }
+    }    
     else if ( pressedKey ) {
       WriteTip("Unknown key: " pressedKey)
     }

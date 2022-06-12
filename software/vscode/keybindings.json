@@ -3071,7 +3071,17 @@
         "when": "editorTextFocus"
     },
     {
+        "key": "ctrl+shift+up",
+        "command": "editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
         "key": "ctrl+shift+alt+k",
+        "command": "editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+down",
         "command": "editor.action.smartSelect.shrink",
         "when": "editorTextFocus"
     },
@@ -3597,7 +3607,23 @@
         }
     },
     {
+        "key": "ctrl+down",
+        "command": "partial.navigateCursor",
+        "when": "textInputFocus",
+        "args": {
+            "ratio": 0.5
+        }
+    },
+    {
         "key": "ctrl+alt+i",
+        "command": "partial.navigateCursor",
+        "when": "textInputFocus",
+        "args": {
+            "ratio": -0.5
+        }
+    },
+    {
+        "key": "ctrl+up",
         "command": "partial.navigateCursor",
         "when": "textInputFocus",
         "args": {

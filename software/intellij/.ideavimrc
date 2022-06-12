@@ -24,6 +24,7 @@ set relativenumber
 set number
 
 """ Idea specific settings ------------------
+
 set ideajoin
 set ideastatusicon=gray
 set idearefactormode=keep
@@ -34,16 +35,25 @@ map rn <Action>(RenameElement)
 map <leader>c <Action>(Stop)
 map <leader>z <Action>(ToggleDistractionFreeMode)
 
-map <leader>s <Action>(SelectInProjectView)
-map <leader>a <Action>(Annotate)
-map <leader>h <Action>(Vcs.ShowTabbedFileHistory)
-map <S-Space> <Action>(GotoNextError)
 
-map <leader>b <Action>(ToggleLineBreakpoint)
+
+map <leader>s <Action>(SelectInProjectView)
+map <S-Space> <Action>(GotoNextError)
+map <leader>h <Action>(Vcs.ShowTabbedFileHistory)
+
 map <leader>o <Action>(FileStructurePopup)
 map <leader>f <Action>(AceWordStartAction)
 """ map <leader>fl <Action>(AceWordBackwardsAction)
 """ map <leader>l <Action>(AceWordBackwardsAction)
 
+map <leader>vim :e ~\.ideavimrc<CR>
+map <leader>r   <Action>(IdeaVim.ReloadVimRc.reload)
+
+nnoremap <C-Home> g0
+nnoremap <Home> g^
+nnoremap <End> g_
+nnoremap <C-End> g$
+map <Backspace> dh
+unmap s
 
 let @u='di[hhpdf]'

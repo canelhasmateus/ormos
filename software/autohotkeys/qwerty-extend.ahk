@@ -140,6 +140,12 @@ F24 & SC025::
   Send {Blind}{Down}
 return
 
+F24 & SC02B::
+; AltGr + "]"
+  Reload
+return
+
+
 ; -----
 
 ;;  Input

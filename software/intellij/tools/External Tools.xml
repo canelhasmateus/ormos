@@ -9,7 +9,7 @@
   <tool name="Code" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="pwsh" />
-      <option name="PARAMETERS" value="C:\Users\Mateus\OneDrive\dot\software\intellij\external\open_code.ps1 $ProjectFileDir$ $FilePath$ $LineNumber$ $ColumnNumber$" />
+      <option name="PARAMETERS" value="C:\Users\Mateus\Desktop\workspace\dot\runnable\open_code.ps1 $ProjectFileDir$ $FilePath$ $LineNumber$ $ColumnNumber$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
