@@ -4,7 +4,6 @@ function FindCommand ($command) {
 }
 
 function GitAmmend {
-    git add .
     git commit --amend --no-edit
     git push --force-with-lease --recurse-submodules=on-demand
 }
@@ -121,7 +120,7 @@ Set-Alias -Name to -Value z
 Set-Alias -Name addPath -Value AddUserPath
 Set-Alias -Name gammend -Value GitAmmend
 Set-Alias -Name gshove -Value GitShove
-Set-Alias -Name gshoveall -Value GitShoveWorkspace
+Set-Alias -Name gshovespace -Value GitShoveWorkspace
 Set-Alias -Name gunmod -Value GitRemoveSubmodule
 Set-Alias -Name gflush -Value GitFlush
 Set-Alias -Name gundo -Value GitUndo

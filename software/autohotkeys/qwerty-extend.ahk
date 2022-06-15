@@ -68,11 +68,19 @@ SetCapsLockState, AlwaysOff
 ; ; top row
 
 F24 & SC010::
-  Send {Esc}
+  Send {AppsKey}
 return
 
 F24 & SC011::
-  Send {AppsKey}
+  Send {Esc}
+return
+
+F24 & SC012::
+  Send {Blind}{CtrlDown}{AltDown}
+return
+
+F24 & SC012 Up::
+  Send {CtrlUp}{AltUp}
 return
 
 ; F24 & SC01B::
@@ -102,15 +110,6 @@ return
 F24 & SC021 Up::
   Send {CtrlUp}
 return
-
-F24 & SC022::
-  Send {Blind}{AltDown}
-return
-
-F24 & SC022 Up::
-  Send {AltUp}
-return
-
 
 ; -----
 

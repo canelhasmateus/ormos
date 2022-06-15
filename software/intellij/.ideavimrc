@@ -6,54 +6,68 @@ set surround
 set multiple-cursors
 set commentary
 set argtextobj
-set easymotion
 set textobj-entire
-set ReplaceWithRegister
 
 """ Plugin settings -------------------------
 let g:argtextobj_pairs="[:],(:),<:>"
-
 """ Common settings -------------------------
 set showmode
-set so=5
+set so=0
 set incsearch
 set nu
 set visualbell
 set noerrorbells
-set relativenumber
-set number
-
+set number relativenumber
+set ignorecase smartcase
 """ Idea specific settings ------------------
 
 set ideajoin
 set ideastatusicon=gray
 set idearefactormode=keep
-
+set clipboard+=unnamed
 
 """ Mappings --------------------------------
 map rn <Action>(RenameElement)
 map <leader>c <Action>(Stop)
 map <leader>z <Action>(ToggleDistractionFreeMode)
-
-
-
 map <leader>s <Action>(SelectInProjectView)
 map <S-Space> <Action>(GotoNextError)
-map <leader>h <Action>(Vcs.ShowTabbedFileHistory)
-
-map <leader>o <Action>(FileStructurePopup)
-map <leader>f <Action>(AceWordStartAction)
-""" map <leader>fl <Action>(AceWordBackwardsAction)
-""" map <leader>l <Action>(AceWordBackwardsAction)
 
 map <leader>vim :e ~\.ideavimrc<CR>
 map <leader>r   <Action>(IdeaVim.ReloadVimRc.reload)
 
-nnoremap <C-Home> g0
-nnoremap <Home> g^
-nnoremap <End> g_
-nnoremap <C-End> g$
-map <Backspace> dh
-unmap s
 
-let @u='di[hhpdf]'
+""" basic movement
+noremap <Enter> i<Enter><ESC>
+noremap <Home> ^
+noremap <C-Home> 0
+noremap <End> $
+noremap <C-End> $
+noremap <Backspace> dh
+
+""" basic selection
+noremap <S-Up> vk
+noremap <S-Down> vj
+noremap <S-Up> k
+noremap <S-Down> j
+noremap <S-Home> v^
+
+
+""" Easy Motion ----------------------------------
+set easymotion
+let g:EasyMotion_do_mapping = 0
+""" forward
+map fl <Plug>(easymotion-w)
+map f<Right> <Plug>(easymotion-w)
+""" backward
+map fj <Plug>(easymotion-b)
+map f<Left> <Plug>(easymotion-b)
+""" line-jumping
+map fh <Plug>(easymotion-bd-jk)
+map f<Home> <Plug>(easymotion-bd-jk)
+map f<End> <Plug>(easymotion-bd-jk)
+map fç <Plug>(easymotion-bd-jk)
+""" free-jump
+map ff <Plug>(easymotion-s)
+""" End
+""" sethandler n:vim i:ide

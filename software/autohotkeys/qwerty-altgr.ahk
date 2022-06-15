@@ -20,6 +20,12 @@ SetWorkingDir, %A_ScriptDir%
     Send {|}
     return
   }
+<^>!SC020:: 
+  {
+    ; AltGr + "D"
+    Send {}
+    return
+  }
 
 ; ------
 
