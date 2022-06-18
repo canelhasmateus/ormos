@@ -1,6 +1,7 @@
 <list display="Random">
   <action id="Tool_External Tools_tdd" />
   <action id="Tool_External Tools_Code" />
+  <action id="Tool_External Tools_Nim BuildAndTest" />
   <action id="Tool_External Tools_Nim Test" />
   <action id="QuickList.$Separator$" />
 </list>

@@ -522,11 +522,7 @@
         "command": "-editor.action.marker.prev",
         "when": "editorFocus"
     },
-    {
-        "key": "alt+q ctrl+left",
-        "command": "editor.action.marker.prevInFiles",
-        "when": "editorFocus"
-    },
+    
     {
         "key": "shift+f8",
         "command": "-editor.action.marker.prevInFiles",
@@ -4872,24 +4868,6 @@
         "when": "editorLangId == 'clojure'"
     },
     {
-        "key": "alt+left",
-        "command": "paredit.dragSexprBackward",
-        "when": "editorLangId == 'clojure'"
-    },
-    {
-        "key": "alt+right",
-        "command": "paredit.dragSexprForward",
-        "when": "editorLangId == 'clojure'"
-    },
-    {
-        "key": "alt+up",
-        "command": "paredit.dragSexprBackwardUp"
-    },
-    {
-        "key": "alt+down",
-        "command": "paredit.dragSexprForwardDown"
-    },
-    {
         "key": "ctrl+[",
         "command": "-markdown.extension.onOutdentLines",
         "when": "editorTextFocus && !suggestWidgetVisible && editorLangId == 'markdown'"
@@ -6488,5 +6466,19 @@
     {
         "key": "alt+o ctrl+d",
         "command": "workbench.action.webview.openDeveloperTools"
+    },
+    {
+        "key": "alt+down",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+up",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+oem_3",
+        "command": "toggleVim"
     }
 ]

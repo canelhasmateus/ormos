@@ -20,13 +20,12 @@ set noerrorbells
 set number relativenumber
 set ignorecase smartcase
 """ Idea specific settings ------------------
-
 set ideajoin
 set ideastatusicon=gray
 set idearefactormode=keep
 set clipboard+=unnamed
-
 """ Mappings --------------------------------
+
 map rn <Action>(RenameElement)
 map <leader>c <Action>(Stop)
 map <leader>z <Action>(ToggleDistractionFreeMode)
@@ -38,21 +37,35 @@ map <leader>r   <Action>(IdeaVim.ReloadVimRc.reload)
 
 
 """ basic movement
-noremap <Enter> i<Enter><ESC>
-noremap <Home> ^
-noremap <C-Home> 0
-noremap <End> $
-noremap <C-End> $
-noremap <Backspace> dh
+nnoremap <Enter> i<Enter><ESC>
+nnoremap <Home> ^
+nnoremap <C-Home> 0
+nnoremap <End> $
+nnoremap <C-End> $
+nnoremap <Backspace> dh
+
+inoremap <C-Home> <Home>
+inoremap <C-End> <End>
 
 """ basic selection
-noremap <S-Up> vk
-noremap <S-Down> vj
-noremap <S-Up> k
-noremap <S-Down> j
-noremap <S-Home> v^
+nnoremap <S-Up> vk
+nnoremap <S-Down> vj
+nnoremap <S-Up> vk
+nnoremap <S-Down> vj
+nnoremap <S-Home> v^
+
+inoremap <S-Up> <Esc>vk
+inoremap <S-Down> <Esc>vj
+inoremap <S-Up> <Esc>vk
+inoremap <S-Down> <Esc>vj
+inoremap <S-Home> <Esc>v^
 
 
+vnoremap <S-Up> k
+vnoremap <S-Down> j
+vnoremap <S-Up> k
+vnoremap <S-Down> j
+vnoremap <S-Home> ^
 """ Easy Motion ----------------------------------
 set easymotion
 let g:EasyMotion_do_mapping = 0
@@ -70,4 +83,8 @@ map fç <Plug>(easymotion-bd-jk)
 """ free-jump
 map ff <Plug>(easymotion-s)
 """ End
-""" sethandler n:vim i:ide
+
+sethandler <ESC> i:vim
+sethandler n:vim i:ide
+sethandler <C-Up> i-n:ide
+sethandler <C-Down> i:ide

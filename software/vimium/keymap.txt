@@ -5,21 +5,18 @@ unmapAll
 
 # Need to use more
 map nq LinkHints.activateModeToOpenInNewForegroundTab
+map od duplicateTab
+map or visitPreviousTab
 map / enterFindMode
-map ? enterVisualMode
-
-map vl performFind
-map vj performBackwardsFind
+map ? enterFindMode
+map . performFind
+map , performBackwardsFind
 map vi focusInput
 map vv enterInsertMode
 
-#map <a-f><a-l> performFind
-#map <a-f><a-j> performBackwardsFind
-#map VI enterVisualLineMode
-
-
 
 # Todo:
+# map VI enterVisualLineMode
 # map <a-m>m Marks.activateCreateMode
 # map <a-m><a-m> Marks.activateCreateMode
 # map <a-n> Marks.activateGotoMode
@@ -35,7 +32,8 @@ map nn LinkHints.activateMode
 map nN LinkHints.activateModeToOpenInNewTab
 map NN LinkHints.activateModeToOpenInNewTab
 map np LinkHints.activateModeWithQueue
-map np LinkHints.activateModeWithQueue
+map nl previousTab
+map nj nextTab
 map nw goUp
 map n<a-w> goToRoot
 
@@ -69,9 +67,8 @@ map nd goForward
 
 #Omnibar / tab
 map oe Vomnibar.activateEditUrl
-map oN Vomnibar.activateInNewTab
+map oE Vomnibar.activateInNewTab
 map of Vomnibar.activateTabSelection
-map or visitPreviousTab
 map om Vomnibar.activateBookmarks
 map oM Vomnibar.activateBookmarksInNewTab
 map oq createTab
@@ -81,17 +78,14 @@ map o<a-w> closeOtherTabs
 map ox moveTabToNewWindow
 map oc copyCurrentUrl
 map oy openCopiedUrlInCurrentTab
-#Rando
 
+#Rando
 map <a-a> previousTab
 map <a-d> nextTab
 map <a-h> previousTab
 map <a-l> nextTab
-
 map < goPrevious
 map > goNext
-
-# Infrequent
 map <a-m><a-a> moveTabLeft
 map <a-m><a-d> moveTabRight
 map <a-m><a-h> moveTabLeft
@@ -100,5 +94,4 @@ map <a-m><a-l> moveTabRight
 
 #Never Used.
 #map II enterInsertMode
-#map od duplicateTab
 #map on Vomnibar.activate 

@@ -16,7 +16,11 @@
     "editor.minimap.scale": 2,
     "editor.minimap.showSlider": "always",
     "editor.parameterHints.cycle": true,
-    "editor.quickSuggestions": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
     "editor.scrollBeyondLastLine": false,
     "editor.semanticHighlighting.enabled": "configuredByTheme",
     "editor.showFoldingControls": "always",
@@ -73,7 +77,6 @@
     ],
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorWidth": 3,
-    
     "terminal.integrated.defaultProfile.windows": "pwsh",
     "terminal.integrated.profiles.windows": {
         "Command Prompt": {
@@ -96,7 +99,9 @@
         },
         "pwsh": {
             "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
-            "args": [ "-nologo"]
+            "args": [
+                "-nologo"
+            ]
         }
     },
     "typescript.check.npmIsInstalled": false,
@@ -157,5 +162,100 @@
     },
     "window.title": "${rootName}",
     "workbench.activityBar.iconClickBehavior": "focus",
-    "zenMode.hideActivityBar": false
+    "zenMode.hideActivityBar": false,
+    "vale.core.useCLI": true,
+    "vim.camelCaseMotion.enable": true,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.replace": "underline",
+    "vim.cursorStylePerMode.visual": "block-outline",
+    "vim.cursorStylePerMode.visualblock": "block-outline",
+    "vim.cursorStylePerMode.visualline": "block-outline",
+    "vim.easymotion": true,
+    "vim.easymotionKeys": "qwerasdfzxcvuiopjklçnm,.",
+    "vim.highlightedyank.enable": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [],
+    "vim.insertModeKeyBindingsNonRecursive": [],
+    "vim.leader": "<Space>",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "Down"
+            ],
+            "after": [
+                "g",
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "j"
+            ],
+            "after": [
+                "g",
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "k"
+            ],
+            "after": [
+                "g",
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "Up"
+            ],
+            "after": [
+                "g",
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "<leader>", "right"
+            ],
+            "commands": [
+                "editor.action.marker.next"
+            ]
+        },{
+            "before": [
+                "<leader>", "left"
+            ],
+            "commands": [
+                "editor.action.marker.prev"
+            ]
+        },{
+            "before": [
+                "<leader>", "up"
+            ],
+            "commands": [
+                "editor.action.quickFix"
+            ]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [],
+    "vim.operatorPendingModeKeyBindings": [],
+    "vim.operatorPendingModeKeyBindingsNonRecursive": [],
+    "vim.smartRelativeLine": true,
+    "vim.sneak": true,
+    "vim.sneakReplacesF": true,
+    "vim.sneakUseIgnorecaseAndSmartcase": true,
+    "vim.useSystemClipboard": true,
+    "vim.visualModeKeyBindings": [],
+    "vim.visualModeKeyBindingsNonRecursive": [],
+    "vim.whichwrap": "b,s,",
+    "editor.columnSelection": true,
+    "foam.files.ignore": [
+        "**vault/journal/*",
+        "**limni/org/*"
+    ],
+    "foam.orphans.exclude": [
+        "**vault/journal/*",
+        "**limni/org/*"
+    ]
 }

@@ -76,209 +76,125 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/compiler/tNimsuggestUndeclaredType.nim" timestamp="1655317400742">
-        <mark key="'" line="5" column="6" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" timestamp="1655385868113">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_ref_set_add.nim" timestamp="1655313952919">
-        <mark key="'" line="16" column="38" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tdebugger_native_nim_type_root.nim" timestamp="1655389170479">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/compiles/tcompile_address_loop.nim" timestamp="1655317648120">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="74" />
-        <mark key="^" line="5" column="75" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCustomEquals.nim" timestamp="1655470214443">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+        <mark key="^" line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_union_type_prefix.nim" timestamp="1655315338830">
-        <mark key="'" line="8" column="56" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tcodegen_init_regression.nim" timestamp="1655387075879">
+        <mark key="'" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/concepts/tcompilationShowsError.nim" timestamp="1655317906394">
-        <mark key="'" line="7" column="4" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" timestamp="1655468481539">
+        <mark key="'" line="36" column="35" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tclosureIteratorNestedFunction.nim" timestamp="1655317012543">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" timestamp="1655469449603">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" timestamp="1655316189907">
-        <mark key="'" line="7" column="3" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" timestamp="1655384711114">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenTopLevelIterators.nim" timestamp="1655314972449">
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_2.nim" timestamp="1655385080078">
+        <mark key="'" line="12" column="18" />
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" timestamp="1655385497206">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorOuterScope.nim" timestamp="1655469694275">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1655467188806">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_1.nim" timestamp="1655384924012">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorBeforeRequireInit.nim" timestamp="1655468683417">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1655467040788">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tdebuggerNativeNimtypeRoot.nim" timestamp="1655387334378">
+        <mark key="'" line="5" column="80" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCopyNewruntime.nim" timestamp="1655469991167">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" timestamp="1655389057689">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="42" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" timestamp="1655315840649">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="29" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_template_non_ref_err.nim" timestamp="1655386746594">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_signed_zero.nim" timestamp="1655314696544">
-        <mark key="'" line="6" column="5" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" timestamp="1655389077492">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tDunnoAboutAName.nim" timestamp="1655315529143">
-        <mark key="'" line="4" column="5" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_template_with_generic.nim" timestamp="1655314064316">
-        <mark key="'" line="29" column="43" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tclosureCodeGeneration.nim" timestamp="1655316661874">
-        <mark key="'" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_generic_openarray_import.nim" timestamp="1655314217074">
-        <mark key="'" line="12" column="81" />
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_pragma_inside_iterators.nim" timestamp="1655314676011">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1655315079463">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="m" line="40" column="22" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/constr/tConstTableLookup.nim" timestamp="1655318356965">
-        <mark key="'" line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tcaptureResultVariable.nim" timestamp="1655316566030">
+      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tcodeGenInitRegression.nim" timestamp="1655386980654">
         <mark key="'" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_inline_proc.nim" timestamp="1655314432308">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_distinct_uint64_32bit.nim" timestamp="1655314106098" />
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="1" column="16" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="27" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="26" column="12" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="20" column="23" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="7" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="19" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="29" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="10" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="22" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="38" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="4" column="15" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="12" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="25" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="15" column="1" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="40" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="37" column="33" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="50" column="19" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="51" column="3" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="52" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="54" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="53" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="42" column="18" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="44" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="34" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="57" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="56" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="45" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="49" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="36" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="29" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="55" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="68" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="61" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="71" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="43" column="11" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="41" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="65" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="66" column="29" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="70" column="12" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="73" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="69" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="64" column="11" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="46" column="9" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="13" column="21" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenSignedCharCastUintOverflows.nim" />
-      <jump line="58" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="60" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="62" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="0" column="4" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="12" column="2" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="28" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="67" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="48" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="59" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="75" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="4" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="2" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="23" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="9" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_signed_zero.nim" />
-      <jump line="5" column="7" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_signed_zero.nim" />
-      <jump line="6" column="5" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_signed_zero.nim" />
-      <jump line="7" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_template_with_generic.nim" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_template_with_generic.nim" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_ref_set_add.nim" />
-      <jump line="16" column="35" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_ref_set_add.nim" />
-      <jump line="18" column="38" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_ref_set_add.nim" />
-      <jump line="31" column="8" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_template_with_generic.nim" />
-      <jump line="29" column="43" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_template_with_generic.nim" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_pragma_inside_iterators.nim" />
-      <jump line="2" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenTopLevelIterators.nim" />
-      <jump line="5" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenTopLevelIterators.nim" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodeGenTopLevelIterators.nim" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_union_type_prefix.nim" />
-      <jump line="33" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_union_type_prefix.nim" />
-      <jump line="8" column="56" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_union_type_prefix.nim" />
-      <jump line="4" column="5" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tDunnoAboutAName.nim" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" />
-      <jump line="4" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" />
-      <jump line="5" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" />
-      <jump line="7" column="60" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" />
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tcodegen_gcc_release_mode_volatile.nim" />
-      <jump line="10" column="34" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" />
-      <jump line="11" column="34" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" />
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/ccgbugs/tnoIdeaHowToNameThis.nim" />
       <jump line="5" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tcaptureResultVariable.nim" />
       <jump line="8" column="32" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tclosureCodeGeneration.nim" />
@@ -290,6 +206,95 @@
       <jump line="6" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/concepts/tcompilationShowsError.nim" />
       <jump line="7" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/concepts/tcompilationShowsError.nim" />
       <jump line="4" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constr/tConstTableLookup.nim" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tcompileEvalEnv.nim" />
+      <jump line="7" column="45" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tcompileEvalEnv.nim" />
+      <jump line="4" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/closure/tcompileEvalEnv.nim" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" />
+      <jump line="5" column="102" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" />
+      <jump line="1" column="39" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" />
+      <jump line="4" column="17" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" />
+      <jump line="6" column="6" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrectArgSyntax_1.nim" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_2.nim" />
+      <jump line="4" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_2.nim" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_2.nim" />
+      <jump line="12" column="18" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/constructors/tincorrect_arg_syntax_2.nim" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="2" column="8" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="3" column="1" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="4" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="7" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="8" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverterAliasOverloadResolution.nim" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="4" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="7" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="10" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_subtype_parameters.nim" />
+      <jump line="35" column="1" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="4" column="98" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/converter/tconverter_template_non_ref_err.nim" />
+      <jump line="5" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tcodeGenInitRegression.nim" />
+      <jump line="3" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tcodegen_init_regression.nim" />
+      <jump line="5" column="80" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tdebuggerNativeNimtypeRoot.nim" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="3" column="325" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="4" column="1" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="9" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="8" column="43" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="13" column="16" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="14" column="18" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="18" column="51" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="21" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="22" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="23" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="24" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/tgenerate_dyn_libs_single_rope.nim" />
+      <jump line="4" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="3" column="15" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="5" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="6" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="9" column="38" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="8" column="5" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/cpp/twrap_discarded_statements.nim" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="16" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="33" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="70" column="6" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="60" column="24" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="50" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="87" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="22" column="58" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="25" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="26" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="14" column="44" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="34" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="17" column="44" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="28" column="40" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="6" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="7" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="33" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="36" column="35" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tcaseManyBranches.nim" />
+      <jump line="2" column="1" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="20" column="3" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="10" column="2" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="11" column="1" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="12" column="21" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorManualInvocation.nim" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorOuterScope.nim" />
+      <jump line="18" column="4" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tdestructorOuterScope.nim" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCopyNewruntime.nim" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCopyNewruntime.nim" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCopyNewruntime.nim" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/nimskull/tests/destructor/tseqCopyNewruntime.nim" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -393,10 +398,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ODYzMA==</text>
+        <text encoding="base64">IDU=</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">ODYzMA==</text>
+        <text encoding="base64">IDU=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -404,10 +409,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ODYzMA==</text>
+        <text encoding="base64">IDU=</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64" />
+        <text encoding="base64">ZA==</text>
       </register>
       <register name="n" type="4">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL25pbS1sYW5nL05pbS9pc3N1ZXMv</text>
@@ -416,37 +421,37 @@
         <text encoding="base64">RWFzeU1vdGlvbl9kb19tYXBwaW5nID0gMA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">MTMwNjI=</text>
+        <text encoding="base64">MTI5ODk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBidWcgIzYyNzkK</text>
+        <text encoding="base64">ICAgSW50ZXJuYWwgZXJyb3JzIHdpdGggbmV3U2VxIHdoZW4gY3VzdG9tID0gb3BlcmF0b3IgaXMgZGVmaW5lZCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFnczogW2NvZGVfZ2VuLCBnYywgY29tcGlsZXJfZ2NjICwgMzJfYml0X29ubHksIHNlcXMgXQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cHV0OiAnJ3AnJwo=</text>
+        <text encoding="base64">ICAgSW50ZXJuYWwgZXJyb3Igd2hlbiBhc3NpZ25pbmcgc2VxIGZvciB0eXBlIHRoYXQgaGF2ZSBjdXN0b20gPSBvcGVyYXRvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGFnczogWyBiYWNrZW5kX2MgLCBtb2RlX3JlbGVhc2UsIGdjY19vcHRpbWl6YXRpb24sIGNvZGVfZ2VuIF0K</text>
+        <text encoding="base64">dGFnczogWyBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0OiAxCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="u" type="4">
         <text encoding="base64">ZGlbaGhwZGZd</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0YWdzOiBbIGJhY2tlbmRfY3BwICwgcHJhZ21hICwgYXRvbWljcyAsIHVuaW9uIF0K</text>
+        <text encoding="base64">dGFnczogWyBOZXdSdW50aW1lICwgU2VxLCBDb3B5XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdXRwdXQ6IAo=</text>
+        <text encoding="base64">ZGVzY3JpcHRpb246ICJOZXdydW50aW1lOiBzZXEgY29weSBpbnZhbGlkYXRlcyBvcmlnaW5hbCBzZXEuLi4gIzEyMDM3Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyB4LnJlcHIK</text>
+        <text encoding="base64">dGFnczogWyBkZXN0cnVjdG9ycywgc2NvcGUgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGlkZW50aWZpZXIK</text>
+        <text encoding="base64">dGFnczogWyBkZXNjdHJ1Y3RvcnMgXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">ZzpFYXN5TW90aW9uX2RvX21hcHBpbmcgPSAw</text>
