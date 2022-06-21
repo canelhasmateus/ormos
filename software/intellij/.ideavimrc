@@ -25,16 +25,54 @@ set ideastatusicon=gray
 set idearefactormode=keep
 set clipboard+=unnamed
 """ Mappings --------------------------------
+sethandler <ESC> i:vim
+sethandler <C-x> a:ide
+sethandler <A-f> a:ide
+sethandler <M-f> a:ide
+sethandler <M-n> a:ide
+sethandler <C-w> a:ide
+sethandler <C-A> a:ide
+sethandler <C-D> a:ide
+sethandler <C-c> a:ide
+sethandler <C-s> a:ide
 
-map rn <Action>(RenameElement)
+sethandler <C-v> i:ide n-v:vim
+sethandler <C-[> a:vim
+
 map <leader>c <Action>(Stop)
-map <leader>z <Action>(ToggleDistractionFreeMode)
-map <leader>s <Action>(SelectInProjectView)
-map <S-Space> <Action>(GotoNextError)
+map <leader>w<A-p> <Action>(SelectInProjectView)
 
+""" Window
 map <leader>vim :e ~\.ideavimrc<CR>
-map <leader>r   <Action>(IdeaVim.ReloadVimRc.reload)
+map <leader>wr  <Action>(IdeaVim.ReloadVimRc.reload)
+map <leader>wp <Action>(ActivateProjectToolWindow)
+map <leader>wp <Action>(SelectInProjectView)
+""" Refactoring -------------------------------
+map rd <Action>(EditorDuplicate)
+map rr <Action>(ReformatCode)
+map rn <Action>(RenameElement)
+map ri <Action>(Inline)
+map ro <Action>(OptimizeImports)
+""" Runnin
+map sn <Action>(StepOver)
+map sl <Action>(StepOver)
+map sk <Action>(StepIntoMyCode)
+map so <Action>(StepOut)
+map sr <Action>(Resume)
+""" Quick commands --------------------------
+map ql <Action>(Forward)
+map qj <Action>(Back)
+map qh <Action>(GotoPreviousError)
+map qç <Action>(GotoNextError)
+map qk <Action>(PartialPageNav.PageDown)
+map qi <Action>(PartialPageNav.PageUp)
 
+map or <Action>(RecentFiles)
+
+""" Navigation
+map nd <Action>(GotoDeclaration)
+map nu <Action>(ShowUsages)
+map nu <Action>(ShowExecutionPoint)
 
 """ basic movement
 nnoremap <Enter> i<Enter><ESC>
@@ -44,47 +82,52 @@ nnoremap <End> $
 nnoremap <C-End> $
 nnoremap <Backspace> dh
 
-inoremap <C-Home> <Home>
-inoremap <C-End> <End>
+inoremap <C-Up> <Esc>:action PartialPageNav.PageUp<CR>i
+inoremap <C-Down> <Esc>:action PartialPageNav.PageDown<CR>i
+inoremap <Home> <Esc>^i
+inoremap <C-Home> <Esc>0i
+inoremap <End> <Esc>$a
+inoremap <C-End> <Esc>$a
 
 """ basic selection
 nnoremap <S-Up> vk
+nnoremap <S-Right> vl
 nnoremap <S-Down> vj
-nnoremap <S-Up> vk
-nnoremap <S-Down> vj
+nnoremap <S-Left> vh
+nnoremap <S-End> v$
 nnoremap <S-Home> v^
 
 inoremap <S-Up> <Esc>vk
+inoremap <S-Right> <Esc>vl
 inoremap <S-Down> <Esc>vj
-inoremap <S-Up> <Esc>vk
-inoremap <S-Down> <Esc>vj
+inoremap <S-Left> <Esc>vh
+inoremap <S-End> <Esc>v$
 inoremap <S-Home> <Esc>v^
 
+vnoremap <S-Up> k
+vnoremap <S-Right> l
+vnoremap <S-Down> j
+vnoremap <S-Left> h
+vnoremap <S-End> $
+vnoremap <C-End> $
+vnoremap <C-Home> ^
 
-vnoremap <S-Up> k
-vnoremap <S-Down> j
-vnoremap <S-Up> k
-vnoremap <S-Down> j
-vnoremap <S-Home> ^
+""" map <> <Action>(EditorLeftWithSelection)
 """ Easy Motion ----------------------------------
 set easymotion
 let g:EasyMotion_do_mapping = 0
-""" forward
 map fl <Plug>(easymotion-w)
-map f<Right> <Plug>(easymotion-w)
-""" backward
 map fj <Plug>(easymotion-b)
-map f<Left> <Plug>(easymotion-b)
 """ line-jumping
-map fh <Plug>(easymotion-bd-jk)
-map f<Home> <Plug>(easymotion-bd-jk)
-map f<End> <Plug>(easymotion-bd-jk)
-map fç <Plug>(easymotion-bd-jk)
+map fi <Plug>(easymotion-bd-jk)
+map fk <Plug>(easymotion-bd-jk)
+map f. <Plug>(easymotion-repeat)
+map f; <Plug>(easymotion-next)
+map f, <Plug>(easymotion-prev)
 """ free-jump
-map ff <Plug>(easymotion-s)
+map ff f
+map ft t
+map f<Space> <Plug>(easymotion-f)
 """ End
 
-sethandler <ESC> i:vim
-sethandler n:vim i:ide
-sethandler <C-Up> i-n:ide
-sethandler <C-Down> i:ide
+
