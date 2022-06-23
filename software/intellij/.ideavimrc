@@ -27,8 +27,17 @@ set clipboard+=unnamed
 """ Mappings --------------------------------
 sethandler <ESC> i:vim
 sethandler <C-x> a:ide
-sethandler <A-f> a:ide
-sethandler <M-f> a:ide
+sethandler <A-F> a:ide
+sethandler <C-I> a:ide
+sethandler <C-B> a:ide
+sethandler <C-L> a:ide
+sethandler <A-N> a:ide
+sethandler <C-P> a:ide
+sethandler <C-R> a:ide
+sethandler <C-U> a:ide
+sethandler <A-X> a:ide
+sethandler <C-\> a:ide
+sethandler <M-F> a:ide
 sethandler <M-n> a:ide
 sethandler <C-w> a:ide
 sethandler <C-A> a:ide
@@ -47,6 +56,7 @@ map <leader>vim :e ~\.ideavimrc<CR>
 map <leader>wr  <Action>(IdeaVim.ReloadVimRc.reload)
 map <leader>wp <Action>(ActivateProjectToolWindow)
 map <leader>wp <Action>(SelectInProjectView)
+map <leader>ff <Action>(Find)
 """ Refactoring -------------------------------
 map rd <Action>(EditorDuplicate)
 map rr <Action>(ReformatCode)
@@ -68,16 +78,22 @@ map qk <Action>(PartialPageNav.PageDown)
 map qi <Action>(PartialPageNav.PageUp)
 
 map or <Action>(RecentFiles)
+noremap oo o
+
 
 """ Navigation
 map nd <Action>(GotoDeclaration)
 map nu <Action>(ShowUsages)
-map nu <Action>(ShowExecutionPoint)
+map ne <Action>(ShowExecutionPoint)
+map nP <Action>(EditorBackwardParagraph)
+map np <Action>(EditorForwardParagraph)
+map nb }
+map nB {
 
 """ basic movement
 nnoremap <Enter> i<Enter><ESC>
 nnoremap <Home> ^
-nnoremap <C-Home> 0
+nnoremap <C-Home> ^
 nnoremap <End> $
 nnoremap <C-End> $
 nnoremap <Backspace> dh
@@ -85,7 +101,7 @@ nnoremap <Backspace> dh
 inoremap <C-Up> <Esc>:action PartialPageNav.PageUp<CR>i
 inoremap <C-Down> <Esc>:action PartialPageNav.PageDown<CR>i
 inoremap <Home> <Esc>^i
-inoremap <C-Home> <Esc>0i
+inoremap <C-Home> <Esc>^i
 inoremap <End> <Esc>$a
 inoremap <C-End> <Esc>$a
 
@@ -105,6 +121,8 @@ inoremap <S-End> <Esc>v$
 inoremap <S-Home> <Esc>v^
 
 vnoremap <S-Up> k
+vnoremap <Backspace> d
+vnoremap <Tab> >gv
 vnoremap <S-Right> l
 vnoremap <S-Down> j
 vnoremap <S-Left> h
