@@ -1,3 +1,9 @@
+.idx: range
+	ANY  → range( len($expr$) )$END$
+
+.range: range
+	ANY  → range( $expr$)$END$
+
 .enumerate : Enumerate value
 	ANY   →   enumerate($expr$)
 
@@ -16,22 +22,13 @@
 .sort : Sort iterable
 	ANY   →   sort($expr$)$END$
 
-.sortk : Sort iterable with key
-	ANY   →   sort($expr$, key=$key$)$END$
-
 .sortl : Sort iterable with lambda key
 	ANY   →   sort($expr$, key=lambda o: $key$)$END$
 
-.filter : Filter iterable
-	ANY   →   filter($first$, $expr$)$END$
-
-.filterl : Filter iterable with lambda
+.filter : Filter iterable with lambda
 	ANY   →   filter(lambda o: $first$, $expr$)$END$
 
-.map : Map iterable
-	ANY   →   map($first$, $expr$)$END$
-
-.mapl : Map iterable with lambda
+.map : Map iterable with lambda
 	ANY   →   map(lambda o: $first$, $expr$)$END$
 
 .open : Open a path

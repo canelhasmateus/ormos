@@ -28,6 +28,7 @@ set clipboard+=unnamed
 sethandler <ESC> i:vim
 sethandler <C-x> a:ide
 sethandler <A-F> a:ide
+sethandler <A-f> a:ide
 sethandler <C-I> a:ide
 sethandler <C-B> a:ide
 sethandler <C-L> a:ide
@@ -71,6 +72,8 @@ map so <Action>(StepOut)
 map sr <Action>(Resume)
 """ Quick commands --------------------------
 map ql <Action>(Forward)
+map qw <Action>(ShowErrorDescription)
+map qd <Action>(QuickJavaDoc)
 map qj <Action>(Back)
 map qh <Action>(GotoPreviousError)
 map qç <Action>(GotoNextError)
