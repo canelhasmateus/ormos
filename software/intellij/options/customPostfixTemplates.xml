@@ -167,47 +167,23 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-collectios.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-files.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
                   <option name="file" value="${PLUGIN}\java\java-functions.postfixTemplates" />
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-io.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-junit4.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-junit5.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-math.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-misc.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-mockito.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\java-numbers.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
                   <option name="file" value="${PLUGIN}\java\java-reflect.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\java\java-collections.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\java\java-custom.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\java\java-test.postfixTemplates" />
                 </VFile>
               </list>
             </value>
@@ -233,6 +209,10 @@
                 <VFile>
                   <option name="enabled" value="true" />
                   <option name="file" value="${PLUGIN}\kotlin\idea-dev.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\kotlin\kotlin-test.postfixTemplates" />
                 </VFile>
               </list>
             </value>

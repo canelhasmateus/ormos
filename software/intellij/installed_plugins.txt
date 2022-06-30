@@ -38,3 +38,4 @@ ru.meanmail.plugin.requirements
 io.github.mishkun.ideavimsneak
 com.vincentp.gruvbox-theme
 org.jetbrains.IdeaVim-EasyMotion
+com.jetbrains.jax.ws

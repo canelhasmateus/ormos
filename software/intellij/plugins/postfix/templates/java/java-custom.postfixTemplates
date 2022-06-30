@@ -1,0 +1,117 @@
+
+.if : Puts the expression inside a if test
+    NON_VOID -> if ( $expr$ ) { $END$ }
+.ifi : Surrounds the expression in a if block 
+    ANY -> if ( $END$) { $expr$ }
+
+.while: Puts the expression inside a while test
+    NON_VOID -> while ( $expr$) { $END$ }
+
+.whilei: Puts the expression inside a while block 
+    ANY -> while ($END$) { $expr$ }
+
+.arg : Wraps an object with a functin call.
+    ANY -> $END$( $expr$ )
+
+.not : Negates a boolean expression
+    BOOLEAN -> !$expr$
+
+.eq : Compares
+
+
+.toUrl : convert to Url
+	java.lang.String       →  try {\
+            URL url = new URL( $expr$);\
+        }\
+        catch ( MalformedURLException e ) {\
+            throw new RuntimeException( e );\
+        }
+	
+
+.regEx : compile pattern
+	java.lang.String         →  java.util.regex.Pattern.compile($expr$)
+
+
+
+.toDate : to Date
+	java.time.LocalDateTime   →   java.util.Date.from($expr$.atZone($zone::"ZoneId.systemDefault()"$).toInstant())
+
+.toLocalDateTime : to LocalDateTime
+	java.util.Date            →   java.time.LocalDateTime.ofInstant($expr$.toInstant(), $zone::"ZoneId.systemDefault()"$)
+
+
+.orElse : or else
+	NON_VOID  →  Optional.ofNullable($expr$).orElse($value$)
+
+.orElseGet : or else get
+	NON_VOID  →  Optional.ofNullable($expr$).orElseGet(() -> $supplier$)
+
+.elvis : a ? a : b
+	NON_VOID  →  $expr$ != null ? $expr$ : $END$
+
+#
+
+.toFile : get file
+	java.lang.String         →  new java.io.File($expr$)
+
+.toURL : get URL
+	java.lang.String         →  new java.net.URL($expr$)
+
+.toURI : get URI
+	java.lang.String         →  new java.net.URI($expr$)
+
+.lines : get lines
+	java.io.File             →  java.nio.file.Files.readAllLines($expr$.toPath(), java.nio.charset.Charset.forName($encoding::"\"UTF-8\""$))
+	java.nio.file.Path       →  java.nio.file.Files.readAllLines($expr$, java.nio.charset.Charset.forName($encoding::"\"UTF-8\""$))
+	java.lang.String         →  $expr$.split("\\r?\\n")
+	java.io.InputStream      →  new java.io.BufferedReader(new java.io.InputStreamReader($expr$)).lines()
+
+.content : get content
+	java.io.File             →  new String(java.nio.file.Files.readAllBytes($expr$.toPath()), $encoding::"\"UTF-8\""$)
+	java.nio.file.Path       →  new String(java.nio.file.Files.readAllBytes($expr$), $encoding::"\"UTF-8\""$)
+	java.io.InputStream      →  new java.util.Scanner($expr$, $encoding::"\"UTF-8\""$).useDelimiter("\\\\A").next()
+	java.net.URL             →  new java.util.Scanner($expr$.openStream(), $encoding::"\"UTF-8\""$).useDelimiter("\\\\A").next()
+
+.inputStream : get input stream
+	ARRAY                    →  new java.io.ByteArrayInputStream($expr$)
+	java.lang.String         →  new java.io.ByteArrayInputStream($expr$.getBytes())
+	java.io.File             →  new java.io.FileInputStream($expr$)
+	java.net.URL             →  $expr$.openStream()
+
+.outputStream : get output stream
+	java.io.File             →  new java.io.FileOutputStream($expr$)
+
+.bufferedReader : get BufferedReader
+	java.io.File             →  new java.io.BufferedReader(new java.io.FileReader($expr$))
+	java.io.InputStream      →  new java.io.BufferedReader(new java.io.InputStreamReader($expr$))
+	java.net.URL             →  new java.io.BufferedReader(new java.io.InputStreamReader($expr$.openStream()))
+
+.bufferedWriter : get BufferedWriter
+	java.io.File             →  new java.io.BufferedWriter(new java.io.FileWriter($expr$))
+	java.io.OutputStream     →  new java.io.BufferedWriter(new java.io.OutputStreamWriter($expr$))
+
+.printStream : get PrintStream
+	java.io.File             →  new java.io.PrintStream($expr$)
+	java.io.OutputStream     →  new java.io.PrintStream($expr$)
+
+
+.soutv : print variable to System.out
+	ARRAY                    →  System.out.println("$escapedExpr*:escapeString(expr)$ = " + java.util.Arrays.toString($expr$));
+	NON_VOID                 →  System.out.println("$escapedExpr*:escapeString(expr)$ = " + $expr$);
+
+.run : run shell command
+	java.lang.String         →  java.lang.Runtime.getRuntime().exec($expr$)
+
+
+.readString : readString
+	java.nio.file.Path [java.nio.file.Files]  →  java.nio.file.Files.readString($expr$, $arg$)
+
+.writeString : writeString
+	java.nio.file.Path [java.nio.file.Files]  →  java.nio.file.Files.writeString($expr$, $arg$)
+
+.walk : walk
+	java.nio.file.Path [java.nio.file.Files]  →  java.nio.file.Files.walk($expr$, $arg$)
+
+.createFile : createFile
+	java.nio.file.Path [java.nio.file.Files]  →  java.nio.file.Files.createFile($expr$, $arg$)
+

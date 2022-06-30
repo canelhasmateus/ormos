@@ -256,6 +256,5 @@
     "foam.orphans.exclude": [
         "**vault/journal/*",
         "**limni/org/*"
-    ],
-    "editor.columnSelection": true
+    ]
 }

@@ -170,7 +170,7 @@
         },
         {
             "destinationRoot": "ApplicationData",
-            "destinationName": "/JetBrains/IntelliJIdea2022.1/plugins/live-plugins",
+            "destinationName": "/JetBrains/IntelliJIdea2022.1/live-plugins",
             "type": "sym",
             "targetRoot": "",
             "targetName": "/software/intellij/plugins/live-plugins"

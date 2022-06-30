@@ -13,6 +13,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Axis2 IDEA tools">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Dart">
           <value>
             <PluginData>
@@ -138,6 +145,22 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.easywsdl.tools.plugins.intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.plugins.gradle" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -305,6 +328,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.jetbrains.nim">
@@ -642,6 +670,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="soapUI Plugin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="tanvd.grazi">

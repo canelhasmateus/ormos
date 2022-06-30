@@ -45,16 +45,21 @@ sethandler <C-A> a:ide
 sethandler <C-D> a:ide
 sethandler <C-c> a:ide
 sethandler <C-s> a:ide
-
+sethandler <C-]> a:ide
+sethandler <C-[> a:ide
 sethandler <C-v> i:ide n-v:vim
-sethandler <C-[> a:vim
 
-map <leader>c <Action>(Stop)
-map <leader>w<A-p> <Action>(SelectInProjectView)
+"""macro
+
+map <leader>sort vi"<Action>(Sort Words)<Esc>
+
+let @a='va{'
+noremap <leader>sc @a
 
 """ Window
+map <leader>w<A-p> <Action>(SelectInProjectView)
 map <leader>vim :e ~\.ideavimrc<CR>
-map <leader>wr  <Action>(IdeaVim.ReloadVimRc.reload)
+map <leader>wr <Action>(IdeaVim.ReloadVimRc.reload)
 map <leader>wp <Action>(ActivateProjectToolWindow)
 map <leader>wp <Action>(SelectInProjectView)
 map <leader>ff <Action>(Find)
@@ -93,7 +98,7 @@ map np <Action>(EditorForwardParagraph)
 map nb }
 map nB {
 
-""" basic movement
+"ciwlabels<Esc>"ciwlabels<Esc>""" basic movement
 nnoremap <Enter> i<Enter><ESC>
 nnoremap <Home> ^
 nnoremap <C-Home> ^
