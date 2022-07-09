@@ -38,9 +38,19 @@
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">LA==</entry>
         <entry encoding="base64">ZW51bQ==</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry encoding="base64">XDxibG9ja1w+</entry>
+        <entry encoding="base64">XDxsZXRcPg==</entry>
+        <entry encoding="base64">XDxkZXF1ZVw+</entry>
+        <entry encoding="base64">XDxHRVRcPg==</entry>
+        <entry encoding="base64">XDxBcGlNb2RlbFByb3BlcnR5XD4=</entry>
+        <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
+        <entry encoding="base64">XDxKc29uTnVsbGFibGVNb2R1bGVcPg==</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry encoding="base64">XDx1cmlWYXJpYWJsZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">c2V0IHNvdW5kYmVsbA==</entry>
         <entry encoding="base64">c2V0IGJlbGw=</entry>
         <entry encoding="base64">cmVn</entry>
         <entry encoding="base64">IQ==</entry>
@@ -87,6 +97,7 @@
         <entry encoding="base64">cy8sLw==</entry>
         <entry encoding="base64">cy8sLyY=</entry>
         <entry encoding="base64">cy9lbnVtL3B1YmxpYyBlbnVt</entry>
+        <entry encoding="base64">c2V0IHRleHR3aWR0aD04MA==</entry>
         <entry encoding="base64">ZSB+XC5pZGVhdmltcmM=</entry>
         <entry encoding="base64">YWN0aW9uIFBhcnRpYWxQYWdlTmF2LlBhZ2VEb3du</entry>
         <entry encoding="base64">YWN0aW9uIFBhcnRpYWxQYWdlTmF2LlBhZ2VVcA==</entry>
@@ -98,139 +109,169 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/workspace/api-shippify/src/test/java/MainTest.java" timestamp="1656625087118">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" timestamp="1657342961661">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/src/main/java/io/codetec/amazon/ApiClient.java" timestamp="1657343257139">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/.gitignore" timestamp="1657344042319">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/codegen/specs/product-fees.json" timestamp="1657343119405">
+        <mark key="[" line="349" column="66" />
+        <mark key="]" line="349" column="67" />
+        <mark key="^" line="349" column="67" />
+        <mark key="." line="349" column="66" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/src/test/java/io/codetec/amazon/aplus/model/AplusPaginatedResponseAllOfTest.java" timestamp="1657343179772">
+        <mark key="[" line="27" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/ApiClient.mustache" timestamp="1657343153744">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/src/main/java/io/codetec/amazon/AuthorizationApi.java" timestamp="1657342324188">
+        <mark key="[" line="46" column="21" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/api-shippify/README.md" timestamp="1656625127587">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api_test.mustache" timestamp="1657342858034">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/api-shippify/src/main/java/io/codetec/udilink/shippify/Converter.java" timestamp="1656625056833" />
-      <file name="/Dummy.txt" timestamp="1656625107050">
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api.mustache" timestamp="1657341932614">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="92" column="67" />
+        <mark key="]" line="92" column="68" />
+        <mark key="^" line="92" column="68" />
+        <mark key="." line="92" column="67" />
+      </file>
+      <file name="$USER_HOME$/Desktop/workspace/api-amazon/src/test/java/io/codetec/amazon/FeesApiTest.java" timestamp="1657342832559">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="42" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="79" column="41" />
+      </file>
+      <file name="/fragment.java" timestamp="1657342098751">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/workspace/api-shippify/pom.xml" timestamp="1656625079127">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="28" />
-      </file>
-      <file name="/fragment.java" timestamp="1656624882046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/TestUtils.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="15" column="14" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/TestUtils.java" />
-      <jump line="16" column="20" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/TestUtils.java" />
-      <jump line="17" column="20" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/TestUtils.java" />
-      <jump line="13" column="7" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/TestUtils.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="38" column="4" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="47" column="7" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="80" column="8" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="84" column="15" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="29" column="16" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/domain/EngineTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/io/codetec/udilink/shippify/domain/FreteEngine.java" />
-      <jump line="92" column="40" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/io/codetec/udilink/shippify/domain/FreteEngineTest.java" />
-      <jump line="135" column="1" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/io/codetec/udilink/shippify/domain/FreteEngineTest.java" />
-      <jump line="133" column="15" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/io/codetec/udilink/shippify/domain/FreteEngineTest.java" />
-      <jump line="157" column="7" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/io/codetec/udilink/shippify/domain/FreteEngineTest.java" />
-      <jump line="171" column="4" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/test/java/io/codetec/udilink/shippify/domain/FreteEngineTest.java" />
-      <jump line="45" column="9" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/io/codetec/udilink/shippify/domain/FreteEngine.java" />
-      <jump line="70" column="1" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/io/codetec/udilink/shippify/domain/FreteEngine.java" />
-      <jump line="69" column="78" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/io/codetec/udilink/shippify/domain/FreteEngine.java" />
-      <jump line="327" column="8" filename="$USER_HOME$/Desktop/workspace/nimskull/testament/specs.nim" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/cxf/AtendeClienteService.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/cxf/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="56" column="37" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/cxf/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/build.xml" />
-      <jump line="618" column="27" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/correio/CorreioClient.java" />
-      <jump line="612" column="12" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/correio/CorreioClient.java" />
-      <jump line="610" column="17" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/src/main/java/correio/CorreioClient.java" />
-      <jump line="25" column="16" filename="$USER_HOME$/Desktop/workspace/api-correios/src/main/java/io/codetec/correio/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios/src/main/java/io/codetec/correio/Acao.java" />
-      <jump line="444" column="13" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="443" column="8" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClient.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClient.java" />
-      <jump line="17" column="3" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="15" column="3" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="24" column="8" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/AtendeCliente_AtendeClientePort_Client.java" />
-      <jump line="108" column="46" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="223" column="10" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="33" column="11" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClientBuilder.java" />
-      <jump line="18" column="28" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClientBuilder.java" />
-      <jump line="26" column="2" filename="$USER_HOME$/Desktop/workspace/api-correios2/pom.xml" />
-      <jump line="57" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/pom.xml" />
-      <jump line="106" column="4" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/test/java/io/codetec/correios/CorreioClientTest.java" />
-      <jump line="41" column="27" filename="$USER_HOME$/Desktop/workspace/api-correios2/pom.xml" />
-      <jump line="44" column="8" filename="$USER_HOME$/Desktop/workspace/api-correios2/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-shippify/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/main/java/io/codetec/udilink/jadlog/trackingNFBean/TrackingNfBean_TrackingNfBean_Client.java" />
-      <jump line="29" column="17" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/main/java/io/codetec/udilink/jadlog/valorFreteBean/ValorFreteBean_ValorFreteBean_Client.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClient.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Desktop/workspace/api-correios2/src/main/java/io/codetec/correios/CorreioClientBuilder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/main/java/io/codetec/udilink/jadlog/trackingNFBean/TrackingNfBeanService.java" />
-      <jump line="34" column="8" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/main/java/io/codetec/udilink/jadlog/admin/AdminClientBuilder.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/main/java/io/codetec/udilink/jadlog/admin/AdminClientBuilder.java" />
-      <jump line="20" column="74" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/admin/AdminClientTest.java" />
-      <jump line="9" column="65" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="13" column="69" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="10" column="94" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="37" column="4" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/cte/CteBeanClientTest.java" />
-      <jump line="65" column="3" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/notfis/NotfisBeanClientTest.java" />
-      <jump line="15" column="72" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/notfis/NotfisBeanClientTest.java" />
-      <jump line="12" column="73" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/notfisTrans/NotfisBeanTransClientTest.java" />
-      <jump line="16" column="11" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/notfisTrans/NotfisBeanTransClientTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/notfis/NotfisBeanClientTest.java" />
-      <jump line="13" column="75" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/produto/InsereProdutoClientTest.java" />
-      <jump line="20" column="2" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/produto/InsereProdutoClientTest.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/produto/InsereProdutoClientTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/produto/InsereProdutoClientTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="2" column="29" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="47" column="12" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="14" column="2" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="11" column="74" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="17" column="8" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="40" column="4" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/tracking/TrackingBeanClientTest.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/trackingNF/TrackingNfBeanClientTest.java" />
-      <jump line="48" column="1" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/trackingNF/TrackingNfBeanClientTest.java" />
-      <jump line="31" column="16" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/trackingNF/TrackingNfBeanClientTest.java" />
-      <jump line="41" column="8" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/trackingNF/TrackingNfBeanClientTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/trackingNF/TrackingNfBeanClientTest.java" />
-      <jump line="13" column="46" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/valorFrete/ValorFreteBeanClientTest.java" />
-      <jump line="14" column="3" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/valorFrete/ValorFreteBeanClientTest.java" />
-      <jump line="49" column="2" filename="$USER_HOME$/Desktop/workspace/api-jadlog/src/test/java/io/codetec/udilink/jadlog/valorFrete/ValorFreteBeanClientTest.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/workspace/api-shippify/README.md" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/workspace/api-shippify/README.md" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/workspace/api-shippify/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-shippify/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/pom.xml" />
+      <jump line="0" column="49" filename="$USER_HOME$/Desktop/workspace/code-jpa-data/src/main/java/io/codetec/udilink/framework/handler/api/Clients.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/product-pricing/pom.xml" />
+      <jump line="92" column="7" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/README.md" />
+      <jump line="100" column="52" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/README.md" />
+      <jump line="103" column="73" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/README.md" />
+      <jump line="94" column="8" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/README.md" />
+      <jump line="199" column="15" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/api/ProductPricingApi.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.21/swagger-annotations-1.5.21.jar!/io/swagger/annotations/ApiModelProperty.class" />
+      <jump line="24" column="4" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/pom.xml" />
+      <jump line="34" column="26" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/model/BatchRequest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/model/BuyBoxPriceType.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/model/CompetitivePriceType.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/model/GetPricingResponse.java" />
+      <jump line="70" column="20" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/model/GetPricingResponse.java" />
+      <jump line="48" column="37" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="49" column="47" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="50" column="60" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="53" column="34" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="56" column="32" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="57" column="36" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/org/openapitools/client/api/ProductPricingApiTest.java" />
+      <jump line="283" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/pom.xml" />
+      <jump line="18" column="30" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/io/codetec/amazon/product/pricing/model/GetPricingResponse.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/pom.xml" />
+      <jump line="5" column="58" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="12" column="41" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="40" column="11" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/pom.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/pom.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/src/main/java/io/codetec/udilink/exemplo/acao/BtnEnvioEntregueAcao.java" />
+      <jump line="52" column="32" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/io/codetec/amazon/product/pricing/api/ProductPricingApiTest.java" />
+      <jump line="50" column="43" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/test/java/io/codetec/amazon/product/pricing/api/ProductPricingApiTest.java" />
+      <jump line="21" column="32" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/src/main/java/io/codetec/udilink/exemplo/acao/BtnEnvioEntregueAcao.java" />
+      <jump line="26" column="12" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/src/main/java/io/codetec/udilink/exemplo/acao/BtnEnvioEntregueAcao.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/src/main/java/io/codetec/udilink/exemplo/evento/AnuncioEvento.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/src/main/java/io/codetec/udilink/exemplo/evento/AnuncioEvento.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/udilink-amazon/pom.xml" />
+      <jump line="35" column="40" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="282" column="61" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/pojo.mustache" />
+      <jump line="22" column="5" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/api.mustache" />
+      <jump line="27" column="12" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="27" column="18" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="453" column="66" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="58" column="107" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="54" column="23" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/ApiClient.mustache" />
+      <jump line="33" column="7" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/ApiClient.mustache" />
+      <jump line="71" column="15" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/ApiClient.java" />
+      <jump line="425" column="63" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="449" column="8" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="473" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="40" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="63" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="2" column="18" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/methodDoc.mustache" />
+      <jump line="284" column="8" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="85" column="13" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/model/BatchOffersResponse.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/model/BatchOffersResponse.java" />
+      <jump line="24" column="3" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/model/BatchRequest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/model/ListingOffersRequest.java" />
+      <jump line="736" column="31" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="60" column="1" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/ApiClient.mustache" />
+      <jump line="722" column="132" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/io/codetec/amazon/product/pricing/api/ProductPricingApi.java" />
+      <jump line="126" column="50" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="109" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="121" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/sankhya/api.mustache" />
+      <jump line="1" column="27" filename="$USER_HOME$/Desktop/workspace/api-amazon/specs/.opts.json" />
+      <jump line="48" column="69" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/jersey1/api.mustache" />
+      <jump line="71" column="20" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/jersey1/api.mustache" />
+      <jump line="66" column="69" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/jersey1/api.mustache" />
+      <jump line="29" column="1" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/jersey1/ApiClient.mustache" />
+      <jump line="56" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/template/libraries/jersey1/ApiClient.mustache" />
+      <jump line="73" column="4" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api.mustache" />
+      <jump line="132" column="3" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api.mustache" />
+      <jump line="68" column="48" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api.mustache" />
+      <jump line="43" column="4" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/api.mustache" />
+      <jump line="233" column="81" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/api/ProductPricingApi.java" />
+      <jump line="0" column="115" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/methodArgs.mustache" />
+      <jump line="585" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/gen/okhttp-exemplo/src/main/java/org/openapitools/client/api/ProductPricingApi.java" />
+      <jump line="197" column="45" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/pojo.mustache" />
+      <jump line="211" column="3" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/template/libraries/jersey1/pojo.mustache" />
+      <jump line="53" column="27" filename="$USER_HOME$/Desktop/workspace/api-amazon/specs/.opts.json" />
+      <jump line="28" column="25" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/product-pricing/src/main/java/org/openapitools/client/model/HttpResponseHeaders.java" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.txt" />
+      <jump line="3" column="33" filename="$USER_HOME$/Desktop/workspace/api-amazon/generate.ps1" />
+      <jump line="1" column="25" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="9" column="4" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="2" column="12" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="4" column="49" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="20" column="23" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="21" column="24" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="22" column="15" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
+      <jump line="23" column="28" filename="$USER_HOME$/Desktop/workspace/api-amazon/codegen/generate.ps1" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -239,7 +280,10 @@
         <text encoding="base64">dmF7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWNrdHlwZS4KCgoKX19fCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcblx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuICAgIFwib3B0aW9uc1wiOntcbiAgICAgICAgXCJjb21wYW55TmFtZVwiOiBcIk1vdmlsIEJ1c1wiXG4gICAgfVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9zaWduaW4iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsgCl9fXwoKCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcbiAgICBcImVtYWlsXCI6XCJzYWlyeXNAc2hpcHBpZnkuY29cIixcbiAgICBcInBhc3N3b3JkXCI6XCJcIlxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9hdXRoIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcImVtYWlsXCI6IFwiZmlsaXBlQHNoaXBwaWZ5LmNvXCIsXG4gICAgXCJ0b2tlblwiOlwiMTIzMTIzMTIzMjEzMVRFU1QxMjMxMjMyXCJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2NsaWVudHMvc3luYyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9jbGllbnRzLzQzMjY3L2RlbGl2ZXJpZXMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcInR5cGVcIjogXCJzbG90XCIsXG5cdFwiZ3JvdXBJZFwiOiBcIjIyMDEyMTk2MTU5MFwiLFxuXHRcImZsZXhpYmxlXCI6IHRydWUsXG5cdFwiZGVsaXZlcmllc1wiOiBbXG4gICAgICAgIHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlJlbmF0YSBCdWxo9WVzIGRlIE1pcmFuZGFcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiYnVsaG9lc21pcmFuZGFAZ21haWwuY29tXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIjIxOTkyMjg3NTY4XCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUnVhIFByb2Zlc3NvciDBbHZhcm8gUm9kcmlndWVzLCAzNTUsIEFQVCAxMTA1IGJsb2NvIDIsIEJvdGFmb2dvLCBSaW8gRGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3NDQyMDExMDEzODY4NTA2XCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNDMzNzI1NzU1XCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkx1Y2FzIE1hbnVlbCBNYWNoYWRvXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImxtYW51ZWwxMTM5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4NDM5OTA3NlwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBkbyBSYWRpYWxpc3RhLCAxNzEsICAsIFRhcXVhcmEsIFJpbyBkZSBKYW5laXJvLCBSSlwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDcyOTE3NzEwMTg5NzYzOTlcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMDU4OTUxNzc3NTFcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbmVsIFJvZG92aeFyaW8gQ2Vsc28gTWVsbG8gQXpldmVkbyAzNzEzIC0gQm9uc3VjZXNzbywgQmVsbyBIb3Jpem9udGUsIE1HIC0gMzA2MjItMjEzXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiTWFyaWEgTHVpemEgU2lsdmEgR29tZXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwibWFyaWEtbHVpemFzZ29tZXNAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5OTkwMzY3NTdcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbGFtZWRhIGRhcyBBcmFyYXMsIDM0MSwgYXAgMTAyLCBDYWJyYWwsIENvbnRhZ2VtLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0Mjc5NTEwMTkwMjg4MTRcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMTQxMzUzNDY2MDBcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSb2QuIFByZXNpZGVudGUgRHV0cmEgMjc2OSAtIFBhdnVuYSwgUmlvIGRlIEphbmVpcm8sIFJKIC0gMjE1MzUtNTAxXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiUGF1bGEgVmFyZ2FzIEdpbFwiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJwYXVsYWdpbDg5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4ODg4MDU4OFwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBSYWltdW5kbyBDb3JyZWlhLCAzNiwgMjAxLCBDb3BhY2FiYW5hLCBSaW8gZGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3MjkzMDAxMDE4OTc0NzgyXCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNTgxNDk3NzAwXCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiQW5lbCBSb2RvdmnhcmlvIENlbHNvIE1lbGxvIEF6ZXZlZG8gMzcxMyAtIEJvbnN1Y2Vzc28sIEJlbG8gSG9yaXpvbnRlLCBNRyAtIDMwNjIyLTIxM1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkFuYSBDbOF1ZGlhIEZyYW5rZSBkZSBBbG1laWRhXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImFuYWNmcmFua2VAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5ODg2NDczNzRcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSdWEgQW1hcmlsaXMsIDIyMywgICwgU2FudG8gQW5kcuksIEJlbG8gSG9yaXpvbnRlLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0NDMwNjEwMTQwOTU0MzBcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiNzEyOTI4MTA2NTNcIlxuXHRcdFx0fVxuXHRcdH1cblx0XVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImV4cHJlc3NcIjp0cnVlLFxuICBcInRpbWVzbG90c1wiOmZhbHNlLFxuICBcImRlbGl2ZXJpZXNcIjogWyBcbiAgICAgIHtcbiAgICAgICBcInBpY2t1cFwiIDoge1xuICAgICAgICAgICAgIFwiY29udGFjdFwiIDoge1xuICAgICAgICAgICAgICAgICBcIm5hbWVcIiA6IFwidGVzdFwiLFxuICAgICAgICAgICAgICAgICBcImVtYWlsXCIgOiBcInRlc3RAdGVzdC5jb20uYnJcIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcIndhcmVob3VzZVwiOjlcbiAgICAgICAgICAgICB9XG4gICAgICAgICB9LFxuICAgICAgICAgXCJkcm9wb2ZmXCIgOiB7XG4gICAgICAgICAgICAgXCJjb250YWN0XCIgOiB7XG4gICAgICAgICAgICAgICAgIFwibmFtZVwiIDogXCJ0ZXN0XCIsXG4gICAgICAgICAgICAgICAgIFwiZW1haWxcIiA6IFwidGVzdEBnbWFpbC5jb21cIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcImluc3RydWN0aW9uc1wiOlwiQXBhcnRhbWVudG8gMTAyIFwiLFxuICAgICAgICAgICAgICAgICBcImFkZHJlc3NcIjpcIlByYedhIGRhIExpYmVyZGFkZSBIb3RlbCAtIEF2ZW5pZGEgQnJhc2lsIC0gU2F2YXNzaSwgQmVsbyBIb3Jpem9udGUgLSBTdGF0ZSBvZiBNaW5hcyBHZXJhaXMsIEJyYXppbFwifVxuICAgICAgICAgfSxcbiAgICAgICAgIFwicGFja2FnZXNcIiA6W3tcImlkXCI6XCJTRllCUjAwMDIzNTg5NlwiLFwicXR5XCI6MSxcIm5hbWVcIjpcIkNBSVhBXCIsXCJwcmljZVwiOjYxLjk3LFwid2VpZ2h0XCI6MixcInNpemVcIjoyLFwiZnJhZ2lsZVwiOmZhbHNlfV1cbiAgICAgfVxuXG4gIF1cbn1cblxuIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3F1b3Rlcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gIFwiY29tcGFueUlkXCI6IDQ0MTIsXG4gIFwiaWRcIjogXCJ0LWFtYWRyZS0xXCIsXG4gIFwicXVvdGVJZFwiOiAxMDY2MDQ2XG59XG5cbiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9jbG9uZSIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImNvbXBhbnlJZFwiOiA0NDEyLFxuICBcImlkXCI6IFwidC1hbWFkcmUtMVwiXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL2Nsb25lL3F1b3RlcyIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICAgIFwiZGVsaXZlcmllc1wiOiBbIFwidC1tb3ZzYWMtNFwiIF0sXG4gICAgXCJyZWNhbGN1bGF0ZVByaWNlXCI6IGZhbHNlLFxuICAgIFwicmVvcmRlclJvdXRlXCI6IGZhbHNlLFxuICAgIFwiYXV0aG9yXCI6IHtcbiAgICAgICAgICAgICAgICAgIFwiaWRcIjogMSxcbiAgICAgICAgICAgICAgICAgIFwibmFtZVwiOiBcIk5vbWUgQ0xpZW50XCIsXG4gICAgICAgICAgICAgICAgICAgXCJ0eXBlXCI6IFwiY2xpZW50XCJcbiAgICAgICAgICAgICB9LFxuICAgIFwibm90ZXNcIjogXCJFbmZlcm1vXCIsXG4gICAgXCJyZWFzb25JZFwiOiAxNDYwMTJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL3JvdXRlcy9jYW5jZWwvIikKLm1ldGhvZCgiUEFUQ0giLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG5cdFwiYXV0aG9yXCI6IHtcblx0XHRcImVtYWlsXCI6IFwiZGVubnlAc2hpcHBpZnkuY29cIixcblx0XHRcImlkXCI6IDE3MTcsXG5cdFx0XCJuYW1lXCI6IFwiRGVubnlcIixcblx0XHRcInR5cGVcIjogXCJvcGVyYXRvclwiXG5cdH0sXG5cdFwicHJvZHVjdHNcIjogW3tcblx0XHRcImlkXCI6IFwiU0hZRlJTVFRTSy0xXCIsXG5cdFx0XCJuYW1lXCI6IFwiRmlyc3QgdGFza1wiLFxuXHRcdFwicHJpY2VcIjogXCIwXCIsXG5cdFx0XCJxdHlcIjogMSxcblx0XHRcInNpemVcIjogMixcblx0XHRcIndlaWdodFwiOiBcIjBcIlxuXHR9XSxcblx0XCJyZWNlaXZlclwiOiB7XG5cdFx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuXHRcdFwibmFtZVwiOiBcIkx1aXNcIixcblx0XHRcInBob25lXCI6IFwiNzc3XCJcblx0fVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvcm91dGVzL3JldHVybi90LXNoaWFscy0xNjYyMyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJ0ZXh0L3BsYWluIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3Rva2VuL3t7ZGVsaXZlcnlJZFNhbXBsZX19IikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgpfX18KCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICIiKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMve3tkZWxpdmVyeUlkU2FtcGxlfX0vZGV0YWlsP29wdGlvbnM9Y29tcGFueSIpCi5tZXRob2QoIkdFVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gICAgXCJyb3V0ZXNcIjpbe1xuICAgICAgICBcInN0ZXBzXCI6W3tcbiAgICAgICAgICAgIFwiaWRcIjpcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCIsXG4gICAgICAgICAgICBcImFjdGl2aXR5XCI6XCJkZWxpdmVyeVwiLFxuICAgICAgICAgICAgXCJkYXRlXCI6MTU5NzM0NDI2NDM3OCxcbiAgICAgICAgICAgIFwibWF4RGF0ZVwiOjE1OTczNDQyNjQzNzhcbiAgICAgICAgICAgIH1dXG4gICAgfV0sXG4gICAgXCJhdXRob3JcIjp7XG4gICAgICAgIFwidHlwZVwiOlwic3lzdGVtXCIsXG4gICAgICAgIFwibmFtZVwiOlwiUG9zdG1hblwiLFxuICAgICAgICBcImVtYWlsXCI6XCJib3Qtbm8tcmVwbHlAc2hpcHBpZnkuY29tXCJcbiAgICB9XG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9yb3V0ZXMvcmVzY2hlZHVsZSIpCi5tZXRob2QoIlBVVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcIm5hbWVcIjogXCJFbiBQT1NUTUFOXCIsXG5cdFwiZGVzY3JpcHRpb25cIjogXCJjb250YWN0XCIsXG5cdFwiY29sb3JcIjogXCIjMjVEMzY2XCIsXG5cdFwiZGVsaXZlcmllc1wiOltcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCJdXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS90YWdzIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKTWVkaWFUeXBlIEpTT04gPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShKU09OLCAie30iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMvdC1zaGlpbmMtMTAwMDczMC9sYWJlbHMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgidGV4dC9wbGFpbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9mZWVzL3R5cGVzP2NvbXBhbnlJZD0xIikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBhV3AxYXpoeVpuRTFabU4wZDNKMGNEWnRNakJ5ZFdScE9tbDBPVzVuYjNwNk1XOWthREYwZERrPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18=</text>
+        <text encoding="base64">L2dlbi8=</text>
+      </register>
+      <register name="b" type="4">
+        <text encoding="base64">dml7</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -321,945 +365,335 @@
         </keys>
       </register>
       <register name="f" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="231" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="39" mods="65" />
-          <key char="65535" code="37" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="105" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="36" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="127" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="38" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="38" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="40" mods="65" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="35" mods="65" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="38" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="65535" code="40" mods="130" />
-          <key char="113" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-        </keys>
+        <text encoding="base64">cQ==</text>
       </register>
       <register name="i" type="4">
-        <text encoding="base64">cWlx</text>
+        <text encoding="base64">cGVuQVBJIEphdmE=</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">aWNrdHlwZS4KCgoKX19fCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcblx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuICAgIFwib3B0aW9uc1wiOntcbiAgICAgICAgXCJjb21wYW55TmFtZVwiOiBcIk1vdmlsIEJ1c1wiXG4gICAgfVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9zaWduaW4iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsgCl9fXwoKCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcbiAgICBcImVtYWlsXCI6XCJzYWlyeXNAc2hpcHBpZnkuY29cIixcbiAgICBcInBhc3N3b3JkXCI6XCJcIlxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9hdXRoIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcImVtYWlsXCI6IFwiZmlsaXBlQHNoaXBwaWZ5LmNvXCIsXG4gICAgXCJ0b2tlblwiOlwiMTIzMTIzMTIzMjEzMVRFU1QxMjMxMjMyXCJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2NsaWVudHMvc3luYyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9jbGllbnRzLzQzMjY3L2RlbGl2ZXJpZXMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcInR5cGVcIjogXCJzbG90XCIsXG5cdFwiZ3JvdXBJZFwiOiBcIjIyMDEyMTk2MTU5MFwiLFxuXHRcImZsZXhpYmxlXCI6IHRydWUsXG5cdFwiZGVsaXZlcmllc1wiOiBbXG4gICAgICAgIHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlJlbmF0YSBCdWxo9WVzIGRlIE1pcmFuZGFcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiYnVsaG9lc21pcmFuZGFAZ21haWwuY29tXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIjIxOTkyMjg3NTY4XCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUnVhIFByb2Zlc3NvciDBbHZhcm8gUm9kcmlndWVzLCAzNTUsIEFQVCAxMTA1IGJsb2NvIDIsIEJvdGFmb2dvLCBSaW8gRGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3NDQyMDExMDEzODY4NTA2XCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNDMzNzI1NzU1XCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkx1Y2FzIE1hbnVlbCBNYWNoYWRvXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImxtYW51ZWwxMTM5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4NDM5OTA3NlwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBkbyBSYWRpYWxpc3RhLCAxNzEsICAsIFRhcXVhcmEsIFJpbyBkZSBKYW5laXJvLCBSSlwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDcyOTE3NzEwMTg5NzYzOTlcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMDU4OTUxNzc3NTFcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbmVsIFJvZG92aeFyaW8gQ2Vsc28gTWVsbG8gQXpldmVkbyAzNzEzIC0gQm9uc3VjZXNzbywgQmVsbyBIb3Jpem9udGUsIE1HIC0gMzA2MjItMjEzXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiTWFyaWEgTHVpemEgU2lsdmEgR29tZXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwibWFyaWEtbHVpemFzZ29tZXNAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5OTkwMzY3NTdcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbGFtZWRhIGRhcyBBcmFyYXMsIDM0MSwgYXAgMTAyLCBDYWJyYWwsIENvbnRhZ2VtLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0Mjc5NTEwMTkwMjg4MTRcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMTQxMzUzNDY2MDBcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSb2QuIFByZXNpZGVudGUgRHV0cmEgMjc2OSAtIFBhdnVuYSwgUmlvIGRlIEphbmVpcm8sIFJKIC0gMjE1MzUtNTAxXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiUGF1bGEgVmFyZ2FzIEdpbFwiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJwYXVsYWdpbDg5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4ODg4MDU4OFwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBSYWltdW5kbyBDb3JyZWlhLCAzNiwgMjAxLCBDb3BhY2FiYW5hLCBSaW8gZGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3MjkzMDAxMDE4OTc0NzgyXCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNTgxNDk3NzAwXCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiQW5lbCBSb2RvdmnhcmlvIENlbHNvIE1lbGxvIEF6ZXZlZG8gMzcxMyAtIEJvbnN1Y2Vzc28sIEJlbG8gSG9yaXpvbnRlLCBNRyAtIDMwNjIyLTIxM1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkFuYSBDbOF1ZGlhIEZyYW5rZSBkZSBBbG1laWRhXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImFuYWNmcmFua2VAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5ODg2NDczNzRcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSdWEgQW1hcmlsaXMsIDIyMywgICwgU2FudG8gQW5kcuksIEJlbG8gSG9yaXpvbnRlLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0NDMwNjEwMTQwOTU0MzBcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiNzEyOTI4MTA2NTNcIlxuXHRcdFx0fVxuXHRcdH1cblx0XVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImV4cHJlc3NcIjp0cnVlLFxuICBcInRpbWVzbG90c1wiOmZhbHNlLFxuICBcImRlbGl2ZXJpZXNcIjogWyBcbiAgICAgIHtcbiAgICAgICBcInBpY2t1cFwiIDoge1xuICAgICAgICAgICAgIFwiY29udGFjdFwiIDoge1xuICAgICAgICAgICAgICAgICBcIm5hbWVcIiA6IFwidGVzdFwiLFxuICAgICAgICAgICAgICAgICBcImVtYWlsXCIgOiBcInRlc3RAdGVzdC5jb20uYnJcIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcIndhcmVob3VzZVwiOjlcbiAgICAgICAgICAgICB9XG4gICAgICAgICB9LFxuICAgICAgICAgXCJkcm9wb2ZmXCIgOiB7XG4gICAgICAgICAgICAgXCJjb250YWN0XCIgOiB7XG4gICAgICAgICAgICAgICAgIFwibmFtZVwiIDogXCJ0ZXN0XCIsXG4gICAgICAgICAgICAgICAgIFwiZW1haWxcIiA6IFwidGVzdEBnbWFpbC5jb21cIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcImluc3RydWN0aW9uc1wiOlwiQXBhcnRhbWVudG8gMTAyIFwiLFxuICAgICAgICAgICAgICAgICBcImFkZHJlc3NcIjpcIlByYedhIGRhIExpYmVyZGFkZSBIb3RlbCAtIEF2ZW5pZGEgQnJhc2lsIC0gU2F2YXNzaSwgQmVsbyBIb3Jpem9udGUgLSBTdGF0ZSBvZiBNaW5hcyBHZXJhaXMsIEJyYXppbFwifVxuICAgICAgICAgfSxcbiAgICAgICAgIFwicGFja2FnZXNcIiA6W3tcImlkXCI6XCJTRllCUjAwMDIzNTg5NlwiLFwicXR5XCI6MSxcIm5hbWVcIjpcIkNBSVhBXCIsXCJwcmljZVwiOjYxLjk3LFwid2VpZ2h0XCI6MixcInNpemVcIjoyLFwiZnJhZ2lsZVwiOmZhbHNlfV1cbiAgICAgfVxuXG4gIF1cbn1cblxuIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3F1b3Rlcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gIFwiY29tcGFueUlkXCI6IDQ0MTIsXG4gIFwiaWRcIjogXCJ0LWFtYWRyZS0xXCIsXG4gIFwicXVvdGVJZFwiOiAxMDY2MDQ2XG59XG5cbiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9jbG9uZSIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImNvbXBhbnlJZFwiOiA0NDEyLFxuICBcImlkXCI6IFwidC1hbWFkcmUtMVwiXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL2Nsb25lL3F1b3RlcyIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICAgIFwiZGVsaXZlcmllc1wiOiBbIFwidC1tb3ZzYWMtNFwiIF0sXG4gICAgXCJyZWNhbGN1bGF0ZVByaWNlXCI6IGZhbHNlLFxuICAgIFwicmVvcmRlclJvdXRlXCI6IGZhbHNlLFxuICAgIFwiYXV0aG9yXCI6IHtcbiAgICAgICAgICAgICAgICAgIFwiaWRcIjogMSxcbiAgICAgICAgICAgICAgICAgIFwibmFtZVwiOiBcIk5vbWUgQ0xpZW50XCIsXG4gICAgICAgICAgICAgICAgICAgXCJ0eXBlXCI6IFwiY2xpZW50XCJcbiAgICAgICAgICAgICB9LFxuICAgIFwibm90ZXNcIjogXCJFbmZlcm1vXCIsXG4gICAgXCJyZWFzb25JZFwiOiAxNDYwMTJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL3JvdXRlcy9jYW5jZWwvIikKLm1ldGhvZCgiUEFUQ0giLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG5cdFwiYXV0aG9yXCI6IHtcblx0XHRcImVtYWlsXCI6IFwiZGVubnlAc2hpcHBpZnkuY29cIixcblx0XHRcImlkXCI6IDE3MTcsXG5cdFx0XCJuYW1lXCI6IFwiRGVubnlcIixcblx0XHRcInR5cGVcIjogXCJvcGVyYXRvclwiXG5cdH0sXG5cdFwicHJvZHVjdHNcIjogW3tcblx0XHRcImlkXCI6IFwiU0hZRlJTVFRTSy0xXCIsXG5cdFx0XCJuYW1lXCI6IFwiRmlyc3QgdGFza1wiLFxuXHRcdFwicHJpY2VcIjogXCIwXCIsXG5cdFx0XCJxdHlcIjogMSxcblx0XHRcInNpemVcIjogMixcblx0XHRcIndlaWdodFwiOiBcIjBcIlxuXHR9XSxcblx0XCJyZWNlaXZlclwiOiB7XG5cdFx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuXHRcdFwibmFtZVwiOiBcIkx1aXNcIixcblx0XHRcInBob25lXCI6IFwiNzc3XCJcblx0fVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvcm91dGVzL3JldHVybi90LXNoaWFscy0xNjYyMyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJ0ZXh0L3BsYWluIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3Rva2VuL3t7ZGVsaXZlcnlJZFNhbXBsZX19IikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgpfX18KCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICIiKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMve3tkZWxpdmVyeUlkU2FtcGxlfX0vZGV0YWlsP29wdGlvbnM9Y29tcGFueSIpCi5tZXRob2QoIkdFVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gICAgXCJyb3V0ZXNcIjpbe1xuICAgICAgICBcInN0ZXBzXCI6W3tcbiAgICAgICAgICAgIFwiaWRcIjpcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCIsXG4gICAgICAgICAgICBcImFjdGl2aXR5XCI6XCJkZWxpdmVyeVwiLFxuICAgICAgICAgICAgXCJkYXRlXCI6MTU5NzM0NDI2NDM3OCxcbiAgICAgICAgICAgIFwibWF4RGF0ZVwiOjE1OTczNDQyNjQzNzhcbiAgICAgICAgICAgIH1dXG4gICAgfV0sXG4gICAgXCJhdXRob3JcIjp7XG4gICAgICAgIFwidHlwZVwiOlwic3lzdGVtXCIsXG4gICAgICAgIFwibmFtZVwiOlwiUG9zdG1hblwiLFxuICAgICAgICBcImVtYWlsXCI6XCJib3Qtbm8tcmVwbHlAc2hpcHBpZnkuY29tXCJcbiAgICB9XG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9yb3V0ZXMvcmVzY2hlZHVsZSIpCi5tZXRob2QoIlBVVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcIm5hbWVcIjogXCJFbiBQT1NUTUFOXCIsXG5cdFwiZGVzY3JpcHRpb25cIjogXCJjb250YWN0XCIsXG5cdFwiY29sb3JcIjogXCIjMjVEMzY2XCIsXG5cdFwiZGVsaXZlcmllc1wiOltcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCJdXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS90YWdzIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKTWVkaWFUeXBlIEpTT04gPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShKU09OLCAie30iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMvdC1zaGlpbmMtMTAwMDczMC9sYWJlbHMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgidGV4dC9wbGFpbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9mZWVzL3R5cGVzP2NvbXBhbnlJZD0xIikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBhV3AxYXpoeVpuRTFabU4wZDNKMGNEWnRNakJ5ZFdScE9tbDBPVzVuYjNwNk1XOWthREYwZERrPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18=</text>
+        <text encoding="base64">L2dlbi8=</text>
       </register>
       <register name="j" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
           <key char="113" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="27" mods="0" />
           <key char="65535" code="36" mods="130" />
           <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="27" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
           <key char="65535" code="36" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
           <key char="65535" code="40" mods="0" />
           <key char="65535" code="40" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="39" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="65" />
+          <key char="65535" code="40" mods="65" />
+          <key char="65535" code="35" mods="65" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="65535" code="35" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="81" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="130" />
+          <key char="65535" code="10" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
           <key char="65535" code="40" mods="0" />
           <key char="65535" code="37" mods="0" />
           <key char="65535" code="37" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="39" mods="0" />
           <key char="99" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="119" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="99" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="115" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="36" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="130" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="27" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="35" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="36" mods="130" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
           <key char="65535" code="38" mods="130" />
           <key char="65535" code="40" mods="0" />
-          <key char="65535" code="35" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="37" mods="130" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="36" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
-          <key char="65535" code="38" mods="0" />
           <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="113" code="0" mods="0" />
         </keys>
       </register>
@@ -1270,16 +704,123 @@
         <text encoding="base64" />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zdG1hbg==</text>
+        <text encoding="base64">L2dlbi8=</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64" />
+        <text encoding="base64">L3RhcmdldA==</text>
       </register>
       <register name="n" type="4">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL25pbS1sYW5nL05pbS9pc3N1ZXMv</text>
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="35" mods="65" />
+          <key char="112" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="36" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="39" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="35" mods="65" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="40" mods="130" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="86" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="36" mods="130" />
+          <key char="65535" code="35" mods="130" />
+          <key char="65535" code="27" mods="0" />
+          <key char="113" code="0" mods="0" />
+        </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZW51bQ==</text>
+        <text encoding="base64">XDx1cmlWYXJpYWJsZXNcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -7594,34 +7135,34 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Q3RlQmVhblNlcnZpY2U=</text>
+        <text encoding="base64">ImZ1bGZpbGxtZW50LWluYm91bmQi</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWNrdHlwZS4KCgoKX19fCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcblx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuICAgIFwib3B0aW9uc1wiOntcbiAgICAgICAgXCJjb21wYW55TmFtZVwiOiBcIk1vdmlsIEJ1c1wiXG4gICAgfVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9zaWduaW4iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsgCl9fXwoKCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vanNvbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIntcbiAgICBcImVtYWlsXCI6XCJzYWlyeXNAc2hpcHBpZnkuY29cIixcbiAgICBcInBhc3N3b3JkXCI6XCJcIlxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvY2xpZW50cy9hdXRoIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcImVtYWlsXCI6IFwiZmlsaXBlQHNoaXBwaWZ5LmNvXCIsXG4gICAgXCJ0b2tlblwiOlwiMTIzMTIzMTIzMjEzMVRFU1QxMjMxMjMyXCJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2NsaWVudHMvc3luYyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9jbGllbnRzLzQzMjY3L2RlbGl2ZXJpZXMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcInR5cGVcIjogXCJzbG90XCIsXG5cdFwiZ3JvdXBJZFwiOiBcIjIyMDEyMTk2MTU5MFwiLFxuXHRcImZsZXhpYmxlXCI6IHRydWUsXG5cdFwiZGVsaXZlcmllc1wiOiBbXG4gICAgICAgIHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlJlbmF0YSBCdWxo9WVzIGRlIE1pcmFuZGFcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiYnVsaG9lc21pcmFuZGFAZ21haWwuY29tXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIjIxOTkyMjg3NTY4XCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUnVhIFByb2Zlc3NvciDBbHZhcm8gUm9kcmlndWVzLCAzNTUsIEFQVCAxMTA1IGJsb2NvIDIsIEJvdGFmb2dvLCBSaW8gRGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3NDQyMDExMDEzODY4NTA2XCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNDMzNzI1NzU1XCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiUm9kLiBQcmVzaWRlbnRlIER1dHJhIDI3NjkgLSBQYXZ1bmEsIFJpbyBkZSBKYW5laXJvLCBSSiAtIDIxNTM1LTUwMVwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkx1Y2FzIE1hbnVlbCBNYWNoYWRvXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImxtYW51ZWwxMTM5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4NDM5OTA3NlwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBkbyBSYWRpYWxpc3RhLCAxNzEsICAsIFRhcXVhcmEsIFJpbyBkZSBKYW5laXJvLCBSSlwiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDcyOTE3NzEwMTg5NzYzOTlcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMDU4OTUxNzc3NTFcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbmVsIFJvZG92aeFyaW8gQ2Vsc28gTWVsbG8gQXpldmVkbyAzNzEzIC0gQm9uc3VjZXNzbywgQmVsbyBIb3Jpem9udGUsIE1HIC0gMzA2MjItMjEzXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiTWFyaWEgTHVpemEgU2lsdmEgR29tZXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwibWFyaWEtbHVpemFzZ29tZXNAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5OTkwMzY3NTdcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJBbGFtZWRhIGRhcyBBcmFyYXMsIDM0MSwgYXAgMTAyLCBDYWJyYWwsIENvbnRhZ2VtLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0Mjc5NTEwMTkwMjg4MTRcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiMTQxMzUzNDY2MDBcIlxuXHRcdFx0fVxuXHRcdH0sXG5cdFx0e1xuXHRcdFx0XCJwaWNrdXBcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIlRBRyBFeHBlcmnqbmNpYXMgTGl0ZXLhcmlhc1wiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJjb250YXRvQHRhZ2xpdnJvcy5jb20uYnJcIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiKDUxKSAzMDk1LTUyMDBcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSb2QuIFByZXNpZGVudGUgRHV0cmEgMjc2OSAtIFBhdnVuYSwgUmlvIGRlIEphbmVpcm8sIFJKIC0gMjE1MzUtNTAxXCJcblx0XHRcdFx0fVxuXHRcdFx0fSxcblx0XHRcdFwiZHJvcG9mZlwiOiB7XG5cdFx0XHRcdFwiY29udGFjdFwiOiB7XG5cdFx0XHRcdFx0XCJuYW1lXCI6IFwiUGF1bGEgVmFyZ2FzIEdpbFwiLFxuXHRcdFx0XHRcdFwiZW1haWxcIjogXCJwYXVsYWdpbDg5QGdtYWlsLmNvbVwiLFxuXHRcdFx0XHRcdFwicGhvbmVudW1iZXJcIjogXCIyMTk4ODg4MDU4OFwiXG5cdFx0XHRcdH0sXG5cdFx0XHRcdFwibG9jYXRpb25cIjoge1xuXHRcdFx0XHRcdFwiYWRkcmVzc1wiOiBcIlJ1YSBSYWltdW5kbyBDb3JyZWlhLCAzNiwgMjAxLCBDb3BhY2FiYW5hLCBSaW8gZGUgSmFuZWlybywgUkpcIlxuXHRcdFx0XHR9XG5cdFx0XHR9LFxuXHRcdFx0XCJwYWNrYWdlc1wiOiBbe1xuXHRcdFx0XHRcImlkXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwibmFtZVwiOiBcIkxpdnJvc1wiLFxuXHRcdFx0XHRcInF0eVwiOiAxLFxuXHRcdFx0XHRcInNpemVcIjogXCJzXCJcblx0XHRcdH1dLFxuXHRcdFx0XCJyZWZlcmVuY2VJZFwiOiBcIjM1MjAxMTE5NzUwMjc0MDAwMjA3NTUwMDYwMDA3MjkzMDAxMDE4OTc0NzgyXCIsXG5cdFx0XHRcIm1ldGFkYXRhXCI6IHtcblx0XHRcdFx0XCJjdXN0b21lckNQRlwiOiBcIjEyNTgxNDk3NzAwXCJcblx0XHRcdH1cblx0XHR9LFxuXHRcdHtcblx0XHRcdFwicGlja3VwXCI6IHtcblx0XHRcdFx0XCJjb250YWN0XCI6IHtcblx0XHRcdFx0XHRcIm5hbWVcIjogXCJUQUcgRXhwZXJp6m5jaWFzIExpdGVy4XJpYXNcIixcblx0XHRcdFx0XHRcImVtYWlsXCI6IFwiY29udGF0b0B0YWdsaXZyb3MuY29tLmJyXCIsXG5cdFx0XHRcdFx0XCJwaG9uZW51bWJlclwiOiBcIig1MSkgMzA5NS01MjAwXCJcblx0XHRcdFx0fSxcblx0XHRcdFx0XCJsb2NhdGlvblwiOiB7XG5cdFx0XHRcdFx0XCJhZGRyZXNzXCI6IFwiQW5lbCBSb2RvdmnhcmlvIENlbHNvIE1lbGxvIEF6ZXZlZG8gMzcxMyAtIEJvbnN1Y2Vzc28sIEJlbG8gSG9yaXpvbnRlLCBNRyAtIDMwNjIyLTIxM1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcImRyb3BvZmZcIjoge1xuXHRcdFx0XHRcImNvbnRhY3RcIjoge1xuXHRcdFx0XHRcdFwibmFtZVwiOiBcIkFuYSBDbOF1ZGlhIEZyYW5rZSBkZSBBbG1laWRhXCIsXG5cdFx0XHRcdFx0XCJlbWFpbFwiOiBcImFuYWNmcmFua2VAaG90bWFpbC5jb21cIixcblx0XHRcdFx0XHRcInBob25lbnVtYmVyXCI6IFwiMzE5ODg2NDczNzRcIlxuXHRcdFx0XHR9LFxuXHRcdFx0XHRcImxvY2F0aW9uXCI6IHtcblx0XHRcdFx0XHRcImFkZHJlc3NcIjogXCJSdWEgQW1hcmlsaXMsIDIyMywgICwgU2FudG8gQW5kcuksIEJlbG8gSG9yaXpvbnRlLCBNR1wiXG5cdFx0XHRcdH1cblx0XHRcdH0sXG5cdFx0XHRcInBhY2thZ2VzXCI6IFt7XG5cdFx0XHRcdFwiaWRcIjogXCJMaXZyb3NcIixcblx0XHRcdFx0XCJuYW1lXCI6IFwiTGl2cm9zXCIsXG5cdFx0XHRcdFwicXR5XCI6IDEsXG5cdFx0XHRcdFwic2l6ZVwiOiBcInNcIlxuXHRcdFx0fV0sXG5cdFx0XHRcInJlZmVyZW5jZUlkXCI6IFwiMzUyMDExMTk3NTAyNzQwMDAyMDc1NTAwNjAwMDc0NDMwNjEwMTQwOTU0MzBcIixcblx0XHRcdFwibWV0YWRhdGFcIjoge1xuXHRcdFx0XHRcImN1c3RvbWVyQ1BGXCI6IFwiNzEyOTI4MTA2NTNcIlxuXHRcdFx0fVxuXHRcdH1cblx0XVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImV4cHJlc3NcIjp0cnVlLFxuICBcInRpbWVzbG90c1wiOmZhbHNlLFxuICBcImRlbGl2ZXJpZXNcIjogWyBcbiAgICAgIHtcbiAgICAgICBcInBpY2t1cFwiIDoge1xuICAgICAgICAgICAgIFwiY29udGFjdFwiIDoge1xuICAgICAgICAgICAgICAgICBcIm5hbWVcIiA6IFwidGVzdFwiLFxuICAgICAgICAgICAgICAgICBcImVtYWlsXCIgOiBcInRlc3RAdGVzdC5jb20uYnJcIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcIndhcmVob3VzZVwiOjlcbiAgICAgICAgICAgICB9XG4gICAgICAgICB9LFxuICAgICAgICAgXCJkcm9wb2ZmXCIgOiB7XG4gICAgICAgICAgICAgXCJjb250YWN0XCIgOiB7XG4gICAgICAgICAgICAgICAgIFwibmFtZVwiIDogXCJ0ZXN0XCIsXG4gICAgICAgICAgICAgICAgIFwiZW1haWxcIiA6IFwidGVzdEBnbWFpbC5jb21cIlxuICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgXCJsb2NhdGlvblwiIDoge1xuICAgICAgICAgICAgICAgICBcImluc3RydWN0aW9uc1wiOlwiQXBhcnRhbWVudG8gMTAyIFwiLFxuICAgICAgICAgICAgICAgICBcImFkZHJlc3NcIjpcIlByYedhIGRhIExpYmVyZGFkZSBIb3RlbCAtIEF2ZW5pZGEgQnJhc2lsIC0gU2F2YXNzaSwgQmVsbyBIb3Jpem9udGUgLSBTdGF0ZSBvZiBNaW5hcyBHZXJhaXMsIEJyYXppbFwifVxuICAgICAgICAgfSxcbiAgICAgICAgIFwicGFja2FnZXNcIiA6W3tcImlkXCI6XCJTRllCUjAwMDIzNTg5NlwiLFwicXR5XCI6MSxcIm5hbWVcIjpcIkNBSVhBXCIsXCJwcmljZVwiOjYxLjk3LFwid2VpZ2h0XCI6MixcInNpemVcIjoyLFwiZnJhZ2lsZVwiOmZhbHNlfV1cbiAgICAgfVxuXG4gIF1cbn1cblxuIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3F1b3Rlcy8iKQoubWV0aG9kKCJQT1NUIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCl9fXwoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gIFwiY29tcGFueUlkXCI6IDQ0MTIsXG4gIFwiaWRcIjogXCJ0LWFtYWRyZS0xXCIsXG4gIFwicXVvdGVJZFwiOiAxMDY2MDQ2XG59XG5cbiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9jbG9uZSIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKCl9fXwoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICBcImNvbXBhbnlJZFwiOiA0NDEyLFxuICBcImlkXCI6IFwidC1hbWFkcmUtMVwiXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL2Nsb25lL3F1b3RlcyIpCi5tZXRob2QoIlBPU1QiLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuICAgIFwiZGVsaXZlcmllc1wiOiBbIFwidC1tb3ZzYWMtNFwiIF0sXG4gICAgXCJyZWNhbGN1bGF0ZVByaWNlXCI6IGZhbHNlLFxuICAgIFwicmVvcmRlclJvdXRlXCI6IGZhbHNlLFxuICAgIFwiYXV0aG9yXCI6IHtcbiAgICAgICAgICAgICAgICAgIFwiaWRcIjogMSxcbiAgICAgICAgICAgICAgICAgIFwibmFtZVwiOiBcIk5vbWUgQ0xpZW50XCIsXG4gICAgICAgICAgICAgICAgICAgXCJ0eXBlXCI6IFwiY2xpZW50XCJcbiAgICAgICAgICAgICB9LFxuICAgIFwibm90ZXNcIjogXCJFbmZlcm1vXCIsXG4gICAgXCJyZWFzb25JZFwiOiAxNDYwMTJcbn0iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL3JvdXRlcy9jYW5jZWwvIikKLm1ldGhvZCgiUEFUQ0giLCBib2R5KQouYWRkSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG5cdFwiYXV0aG9yXCI6IHtcblx0XHRcImVtYWlsXCI6IFwiZGVubnlAc2hpcHBpZnkuY29cIixcblx0XHRcImlkXCI6IDE3MTcsXG5cdFx0XCJuYW1lXCI6IFwiRGVubnlcIixcblx0XHRcInR5cGVcIjogXCJvcGVyYXRvclwiXG5cdH0sXG5cdFwicHJvZHVjdHNcIjogW3tcblx0XHRcImlkXCI6IFwiU0hZRlJTVFRTSy0xXCIsXG5cdFx0XCJuYW1lXCI6IFwiRmlyc3QgdGFza1wiLFxuXHRcdFwicHJpY2VcIjogXCIwXCIsXG5cdFx0XCJxdHlcIjogMSxcblx0XHRcInNpemVcIjogMixcblx0XHRcIndlaWdodFwiOiBcIjBcIlxuXHR9XSxcblx0XCJyZWNlaXZlclwiOiB7XG5cdFx0XCJlbWFpbFwiOiBcImx1aXNscDA1QGdtYWlsLmNvbVwiLFxuXHRcdFwibmFtZVwiOiBcIkx1aXNcIixcblx0XHRcInBob25lXCI6IFwiNzc3XCJcblx0fVxufSIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvcm91dGVzL3JldHVybi90LXNoaWFscy0xNjYyMyIpCi5tZXRob2QoIlBBVENIIiwgYm9keSkKLmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJ0ZXh0L3BsYWluIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAiIik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9kZWxpdmVyaWVzL3Rva2VuL3t7ZGVsaXZlcnlJZFNhbXBsZX19IikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgpfX18KCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICIiKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMve3tkZWxpdmVyeUlkU2FtcGxlfX0vZGV0YWlsP29wdGlvbnM9Y29tcGFueSIpCi5tZXRob2QoIkdFVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmFzaWMgZTN0VFNFbFFVRWxHV1Y5QlVFbGZTMFZaZlgwNmUzdFRTRWxRVUVsR1dWOUJVRWxmVTBWRFVrVlVmWDA9IikKLmJ1aWxkKCk7ClJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb24iKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShtZWRpYVR5cGUsICJ7XG4gICAgXCJyb3V0ZXNcIjpbe1xuICAgICAgICBcInN0ZXBzXCI6W3tcbiAgICAgICAgICAgIFwiaWRcIjpcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCIsXG4gICAgICAgICAgICBcImFjdGl2aXR5XCI6XCJkZWxpdmVyeVwiLFxuICAgICAgICAgICAgXCJkYXRlXCI6MTU5NzM0NDI2NDM3OCxcbiAgICAgICAgICAgIFwibWF4RGF0ZVwiOjE1OTczNDQyNjQzNzhcbiAgICAgICAgICAgIH1dXG4gICAgfV0sXG4gICAgXCJhdXRob3JcIjp7XG4gICAgICAgIFwidHlwZVwiOlwic3lzdGVtXCIsXG4gICAgICAgIFwibmFtZVwiOlwiUG9zdG1hblwiLFxuICAgICAgICBcImVtYWlsXCI6XCJib3Qtbm8tcmVwbHlAc2hpcHBpZnkuY29tXCJcbiAgICB9XG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS9yb3V0ZXMvcmVzY2hlZHVsZSIpCi5tZXRob2QoIlBVVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKCk9rSHR0cENsaWVudCBjbGllbnQgPSBuZXcgT2tIdHRwQ2xpZW50KCkubmV3QnVpbGRlcigpCi5idWlsZCgpOwpNZWRpYVR5cGUgbWVkaWFUeXBlID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uIik7ClJlcXVlc3RCb2R5IGJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUobWVkaWFUeXBlLCAie1xuXHRcIm5hbWVcIjogXCJFbiBQT1NUTUFOXCIsXG5cdFwiZGVzY3JpcHRpb25cIjogXCJjb250YWN0XCIsXG5cdFwiY29sb3JcIjogXCIjMjVEMzY2XCIsXG5cdFwiZGVsaXZlcmllc1wiOltcInt7ZGVsaXZlcnlJZFNhbXBsZX19XCJdXG59Iik7ClJlcXVlc3QgcmVxdWVzdCA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKQoudXJsKCJ7e1NISVBQSUZZX0FQSV9VUkx9fS92MS90YWdzIikKLm1ldGhvZCgiUE9TVCIsIGJvZHkpCi5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBlM3RUU0VsUVVFbEdXVjlCVUVsZlMwVlpmWDA2ZTN0VFNFbFFVRWxHV1Y5QlVFbGZVMFZEVWtWVWZYMD0iKQouYnVpbGQoKTsKUmVzcG9uc2UgcmVzcG9uc2UgPSBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCk7CgoKX19fCgoKT2tIdHRwQ2xpZW50IGNsaWVudCA9IG5ldyBPa0h0dHBDbGllbnQoKS5uZXdCdWlsZGVyKCkKLmJ1aWxkKCk7Ck1lZGlhVHlwZSBtZWRpYVR5cGUgPSBNZWRpYVR5cGUucGFyc2UoInRleHQvcGxhaW4iKTsKTWVkaWFUeXBlIEpTT04gPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKTsKUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShKU09OLCAie30iKTsKUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFJlcXVlc3QuQnVpbGRlcigpCi51cmwoInt7U0hJUFBJRllfQVBJX1VSTH19L3YxL2RlbGl2ZXJpZXMvdC1zaGlpbmMtMTAwMDczMC9sYWJlbHMiKQoubWV0aG9kKCJHRVQiLCBib2R5KQouYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJhc2ljIGUzdFRTRWxRVUVsR1dWOUJVRWxmUzBWWmZYMDZlM3RUU0VsUVVFbEdXVjlCVUVsZlUwVkRVa1ZVZlgwPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18KCgpPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpLm5ld0J1aWxkZXIoKQouYnVpbGQoKTsKTWVkaWFUeXBlIG1lZGlhVHlwZSA9IE1lZGlhVHlwZS5wYXJzZSgidGV4dC9wbGFpbiIpOwpSZXF1ZXN0Qm9keSBib2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKG1lZGlhVHlwZSwgIiIpOwpSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgUmVxdWVzdC5CdWlsZGVyKCkKLnVybCgie3tTSElQUElGWV9BUElfVVJMfX0vdjEvZGVsaXZlcmllcy9mZWVzL3R5cGVzP2NvbXBhbnlJZD0xIikKLm1ldGhvZCgiR0VUIiwgYm9keSkKLmFkZEhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJCYXNpYyBhV3AxYXpoeVpuRTFabU4wZDNKMGNEWnRNakJ5ZFdScE9tbDBPVzVuYjNwNk1XOWthREYwZERrPSIpCi5idWlsZCgpOwpSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5uZXdDYWxsKHJlcXVlc3QpLmV4ZWN1dGUoKTsKCgpfX18=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Z2VuLwo=</text>
       </register>
       <register name="q" type="4">
         <text encoding="base64">anFqcQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqdW5pdC5mcmFtZXdvcmsuQXNzZXJ0LmFzc2VydFRydWU7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBpby5jb2RldGVjLmFtYXpvbi51cGxvYWRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgCgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amFzcGVycmVwb3J0czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amFzcGVycmVwb3J0czwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBNb3ZlLUl0ZW0gJF8gJEJhc2VTcmMgLUZvcmNlCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5ndWF2YTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIzLjQtYW5kcm9pZDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwpp</text>
       </register>
       <register name="u" type="4">
         <text encoding="base64">ZXE=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+bG9nNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjIuMTQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">aW1wb3J0IHt7aW52b2tlclBhY2thZ2V9fS5BcGlDbGllbnQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amRvbTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amRvbTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmICggZXh0cmFQYXJhbXMgIT0gbnVsbCApICB7CiAgICAgICAgICAgIGZvciAoIE1hcC5FbnRyeTwgU3RyaW5nLCBPYmplY3QgPiBlbnRyeSA6IGV4dHJhUGFyYW1zLmVudHJ5U2V0KCkgKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcga2V5ICAgPSBlbnRyeS5nZXRLZXkoKTsKICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgICAgICB1cmlCdWlsZGVyID0gQXBpQ2xpZW50LmFkZFBhcmFtKCB1cmlCdWlsZGVyICwga2V5ICwgdmFsdWUgKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7629,11 +7170,11 @@
           <key char="113" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGtleSA9PSBudWxsIHx8IHZhbHVlID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGJ1aWxkZXI7CiAgICAgICAgfQoKICAgICAgICBpZiAodmFsdWUgaW5zdGFuY2VvZiBDb2xsZWN0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBidWlsZGVyLnF1ZXJ5UGFyYW0oa2V5LCAoKENvbGxlY3Rpb24pIHZhbHVlKS50b0FycmF5KCkpOwogICAgICAgIH0KICAgICAgICBlbHNlIGlmICh2YWx1ZSBpbnN0YW5jZW9mIE9iamVjdFtdKSB7CiAgICAgICAgICAgIHJldHVybiBidWlsZGVyLnF1ZXJ5UGFyYW0oa2V5LCAoT2JqZWN0W10pIHZhbHVlKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJ1aWxkZXIucXVlcnlQYXJhbShrZXksIHZhbHVlKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5jb2RlLmdzb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmdzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmNvZGV0ZWMuYW1hem9uLnVwbG9hZHMuQXBpQ2xpZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">YWN0aW9uIFBhcnRpYWxQYWdlTmF2LlBhZ2VVcA==</text>
@@ -7642,10 +7183,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZWZcPg==</last-search>
+      <last-search encoding="base64">XDx1cmlWYXJpYWJsZXNcPg==</last-search>
       <last-substitute encoding="base64">ZW51bQ==</last-substitute>
       <last-replace encoding="base64">cHVibGljIGVudW0=</last-replace>
-      <last-pattern encoding="base64">ZW51bQ==</last-pattern>
+      <last-pattern encoding="base64">XDx1cmlWYXJpYWJsZXNcPg==</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

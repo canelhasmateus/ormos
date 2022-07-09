@@ -5,7 +5,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>openjdk-18</last-edited>
+              <last-edited>corretto-1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

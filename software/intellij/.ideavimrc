@@ -25,7 +25,7 @@ set ideastatusicon=gray
 set idearefactormode=keep
 set clipboard+=unnamed
 """ Mappings --------------------------------
-sethandler <ESC> i:vim
+sethandler <ESC> a:ide
 sethandler <C-x> a:ide
 sethandler <A-F> a:ide
 sethandler <A-f> a:ide
@@ -52,9 +52,14 @@ sethandler <C-v> i:ide n-v:vim
 """macro
 
 map <leader>sort vi"<Action>(Sort Words)<Esc>
+vmap <leader>sort <Action>(Sort Words)<Esc>
 
 let @a='va{'
-noremap <leader>sc @a
+let @b='vi{'
+
+
+noremap <leader>sca @a
+noremap <leader>sci @b
 
 """ Window
 map <leader>w<A-p> <Action>(SelectInProjectView)
@@ -98,7 +103,7 @@ map np <Action>(EditorForwardParagraph)
 map nb }
 map nB {
 
-"ciwlabels<Esc>"ciwlabels<Esc>""" basic movement
+"basic movement
 nnoremap <Enter> i<Enter><ESC>
 nnoremap <Home> ^
 nnoremap <C-Home> ^
@@ -113,13 +118,15 @@ inoremap <C-Home> <Esc>^i
 inoremap <End> <Esc>$a
 inoremap <C-End> <Esc>$a
 
-""" basic selection
+""" basic editing 
 nnoremap <S-Up> vk
 nnoremap <S-Right> vl
 nnoremap <S-Down> vj
 nnoremap <S-Left> vh
 nnoremap <S-End> v$
 nnoremap <S-Home> v^
+nnoremap dp d}
+nnoremap dP d{
 
 inoremap <S-Up> <Esc>vk
 inoremap <S-Right> <Esc>vl
@@ -138,7 +145,9 @@ vnoremap <S-End> $
 vnoremap <C-End> $
 vnoremap <C-Home> ^
 
-""" map <> <Action>(EditorLeftWithSelection)
+
+
+
 """ Easy Motion ----------------------------------
 set easymotion
 let g:EasyMotion_do_mapping = 0
@@ -146,10 +155,7 @@ map fl <Plug>(easymotion-w)
 map fj <Plug>(easymotion-b)
 """ line-jumping
 map fi <Plug>(easymotion-bd-jk)
-map fk <Plug>(easymotion-bd-jk)
-map f. <Plug>(easymotion-repeat)
-map f; <Plug>(easymotion-next)
-map f, <Plug>(easymotion-prev)
+map fk *
 """ free-jump
 map ff f
 map ft t

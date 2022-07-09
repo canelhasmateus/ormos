@@ -148,6 +148,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.dmarcotte.handlebars">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.easywsdl.tools.plugins.intellij">
           <value>
             <PluginData>
@@ -160,7 +171,6 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -184,6 +194,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -349,6 +360,17 @@
         <entry key="com.jetbrains.restWebServices">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.kevinshu.retrofit2.plugins">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="com.leinardi.pycharm.mypy">
