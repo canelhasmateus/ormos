@@ -1,3 +1,6 @@
+.var: range
+	ANY  → $actionVar:suggestShortVariableName()$ = $expr$$END$
+
 .idx: range
 	ANY  → range( len($expr$) )$END$
 

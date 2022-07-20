@@ -89,6 +89,8 @@ function Add-Choco {
             "vscode"
             "fzf"
             "oh-my-posh"
+            "firefox"
+            "wget"
         )
         
         choco install $Installs -y 

@@ -230,9 +230,36 @@ function Set-Wsl {
 #
 #
 #
-#
+function Set-Browser {
+
+    $Script = { param( )
+        
+        $XPIS = @(
+            "https://addons.mozilla.org/firefox/downloads/file/3898202/vimium_ff-1.67.1.xpi"
+            "https://addons.mozilla.org/firefox/downloads/file/3782413/new_tab_override-15.1.1.xpi"
+            "https://addons.mozilla.org/firefox/downloads/file/3911043/markdownload-3.1.0.xpi"
+            "https://addons.mozilla.org/firefox/downloads/file/3955386/copy_all_tab_urls_we-2.1.0.xpi"
+            "https://addons.mozilla.org/firefox/downloads/file/3961087/ublock_origin-1.43.0.xpi"
+            "https://addons.mozilla.org/firefox/downloads/file/3812704/umatrix-1.4.4.xpi"
+        )
+        
 
 
+        $XPIS | ForEach-Object { 
+            wget $_ -o 
+            firefox ./current.xpi
+        }
+        
+        
+    }
+    $Parameter = @{ 
+
+    }
+        
+    return Start-Background  $Script $Parameter
+    
+    
+}
 
 
 

@@ -129,6 +129,7 @@ Set-Alias -Name gflush -Value GitFlush
 Set-Alias -Name gundo -Value GitUndo
 Set-Alias -Name gscrape -Value GitScrape
 Set-Alias -Name java -Value C:\Users\Mateus\.jdks\corretto-1.8.0_332\bin\java
+Set-Alias -Name firefox -Value "C:\Program Files\Mozilla Firefox\firefox.exe"
     
 
 

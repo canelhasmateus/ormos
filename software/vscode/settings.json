@@ -145,7 +145,7 @@
     "editor.find.autoFindInSelection": "multiline",
     "editor.find.seedSearchStringFromSelection": "selection",
     "foam.graph.titleMaxLength": 0,
-    "foam.graph.style": {},
+    
     "editor.largeFileOptimizations": false,
     "cSpell.enabled": false,
     "[markdown]": {
@@ -249,13 +249,6 @@
     "vim.visualModeKeyBindings": [],
     "vim.visualModeKeyBindingsNonRecursive": [],
     "vim.whichwrap": "b,s,",
-    "foam.files.ignore": [
-        "**vault/journal/*",
-        "**limni/org/*"
-    ],
-    "foam.orphans.exclude": [
-        "**vault/journal/*",
-        "**limni/org/*"
-    ],
-    "editor.columnSelection": true
+    "editor.columnSelection": true,
+    
 }

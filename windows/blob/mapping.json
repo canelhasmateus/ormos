@@ -209,6 +209,13 @@
             "type": "hard",
             "targetRoot": "",
             "targetName": "/software/intellij/.ideavimrc"
+        },
+        {
+            "destinationRoot": "ApplicationData",
+            "destinationName": "/Mozilla/Firefox/Profiles/912oq0eg.default-release/extensions",
+            "type": "sym",
+            "targetRoot": "",
+            "targetName": "/software/firefox/extensions"
         }
     ]
 }

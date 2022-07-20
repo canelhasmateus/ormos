@@ -9,7 +9,9 @@ $Terminal = Join-Path $PSScriptRoot "/lib/terminal.ps1"
 
 # set PowerShell to UTF-8
 [console]::InputEncoding = [console]::OutputEncoding = New-Object System.Text.UTF8Encoding
+$PSDefaultParameterValues['*:Encoding'] = 'utf8'
 
+$PSDefaultParameterValues = @{ '*:Encoding' = 'utf8' }
 
 $CurrentDir = Get-Location
 

@@ -1,4 +1,4 @@
-[
+ [
     {
         "key": "ctrl+alt+up",
         "command": "-editor.action.insertCursorAbove",
