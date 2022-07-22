@@ -159,7 +159,7 @@ return
 F24 & SC034::
   Send {Blind}{Del}
 return
-  
+ 
 ; ; bottom row
 
 F24 & SC073::
