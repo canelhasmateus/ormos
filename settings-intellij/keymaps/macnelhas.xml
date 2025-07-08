@@ -146,6 +146,10 @@
   </action>
   <action id="BraceOrQuoteOut" />
   <action id="CallHierarchy" />
+  <action id="CallInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="d" />
+  </action>
   <action id="ChangeKeymap" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="s" />
@@ -170,9 +174,7 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CloseGotItTooltip" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt d" second-keystroke="d" />
-  </action>
+  <action id="CodeCompletion" />
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
   <action id="CollapseAllRegions">
@@ -593,6 +595,9 @@
   <action id="ExternalSystem.ProjectRefreshAction">
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="meta o" />
   </action>
+  <action id="ExternalToolsGroup">
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="shift o" />
+  </action>
   <action id="ExtractFunctionToScope" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="f" />
@@ -735,6 +740,19 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="i" />
   </action>
+  <action id="InsertInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="tab" />
+  </action>
+  <action id="InsertInlineCompletionLineAction">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt end" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="end" />
+  </action>
+  <action id="InsertInlineCompletionWordAction">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="w" />
+  </action>
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="p" />
   </action>
@@ -752,6 +770,9 @@
   </action>
   <action id="IntentionActionAsAction_com.intellij.refactoring.replaceConstructorWithBuilder.ReplaceConstructorWithBuilderAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt 0" />
+  </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ConvertParameterToReceiverIntention">
+    <keyboard-shortcut first-keystroke="alt q" second-keystroke="alt q" />
   </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="k" />
@@ -1212,9 +1233,7 @@
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt q" second-keystroke="alt i" />
   </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt d" />
-  </action>
+  <action id="SmartTypeCompletion" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -1280,6 +1299,7 @@
   <action id="ToggleBookmark9" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="alt w" second-keystroke="shift i" />
   </action>
   <action id="ToggleFindInSelection" />
   <action id="ToggleFullScreen">
@@ -1289,9 +1309,6 @@
     <keyboard-shortcut first-keystroke="alt b" second-keystroke="e" />
   </action>
   <action id="ToggleRenderedDocPresentation" />
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="alt q" second-keystroke="meta alt i" />
-  </action>
   <action id="ToolWindowsGroup">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="tab" />
   </action>

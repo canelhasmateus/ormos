@@ -34,11 +34,8 @@ bindkey '^[[17~' kill-word
 #bindkey '^[^D' menu-complete
 #bindkey '^[^D' menu-expand-or-complete
 
-# Shell History
-alias ls='eza'
-alias cat='bat'
-alias grep='rg'
 # alias find='fd --type f'
+eval "$(/opt/homebrew/bin/brew shellenv)"
 eval "$(zoxide init --cmd cd zsh)"
 
 # fzf search
@@ -70,7 +67,6 @@ function cargo_generate() {
 	print -z "cargo test -- $choices --exact"
 }
 alias ct=cargo_generate
-
 # Todos
 # brew install zsh-syntax-highlighting
 # echo "source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc

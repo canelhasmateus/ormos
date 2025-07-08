@@ -24,6 +24,9 @@ todo
 <https://github.com/rockerBOO/awesome-neovim>
 <https://github.com/joshmedeski/dotfiles> ( fzf, font )
 
+<https://www.youtube.com/watch?v=G7-qUMKSH_Y>
+<https://www.youtube.com/watch?v=RmSvKKmLjGU>
+
 ## VIM
 
 <https://github.com/zk-org/zk-nvim>
@@ -42,6 +45,7 @@ todo
 
 <https://github.com/kevinhwang91/nvim-bqf>
 <https://github.com/FabianWirth/search.nvim>
+<https://github.com/scottmckendry/windots>
 
 ## OS
 

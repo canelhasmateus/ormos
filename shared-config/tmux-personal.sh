@@ -1,4 +1,5 @@
 #! /bin/zsh
+eval "$(/opt/homebrew/bin/brew shellenv)"
 source ~/.canelhasmateus/lib/source-zsh.sh
 
 choice=$(fzf << EOF

@@ -487,4 +487,6 @@
     "D2.autoUpdate": false,
     "excalidraw.theme": "auto",
     "zenMode.showTabs": "single",
+    "D2.previewLayout": "dagre",
+    "diffEditor.renderSideBySide": false,
 }

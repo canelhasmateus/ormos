@@ -62,9 +62,10 @@ baseGroup=(
 	'./shared-lib .canelhasmateus/lib'
 	'./shared-bin/journal.py ../../usr/local/bin/journal'
 	'./shared-bin/bookmarks.py ../../usr/local/bin/bookmarks'
+	'./shared-bin/bins.awk ../../usr/local/bin/bins'
+	'./shared-bin/histo.awk ../../usr/local/bin/histo'
 
 	'./shared-config .canelhasmateus/config'
-	'./shared-config/osx-colima.yaml .colima/default/colima.yaml'
 	'./shared-config/osx-alacrity.yml .config/alacritty/alacritty.yml'
 	'./shared-config/osx-gradle-offline.groovy .gradle/init.d/configure-resolution-strategy.gradle'
 	'./shared-config/osx-gradle-local-plugin.groovy .gradle/init.d/add-maven-local-plugin-repo.gradle'
@@ -122,10 +123,7 @@ done
 
 # IntelliJ
 {
-	find ~/Library/Application\ Support/JetBrains/*AppCode* -depth 0
 	find ~/Library/Application\ Support/JetBrains/*Idea* -depth 0
-	find ~/Library/Application\ Support/JetBrains/*DataSpell* -depth 0
-	find ~/Library/Application\ Support/JetBrains/Toolbox/apps/**/Contents -not -path "*jbr*" -depth 0
 } | while read -r version; do
 	version=${version#"$HOME/"}
 	group=(
@@ -152,7 +150,7 @@ unzip "$dest" -d "$parentDir" && mv "$parentDir"/*.ttf ~/Library/Fonts
 ) >>/Users/mateus.canelhas/.zprofile
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
-brew install jq rg fzf atuin eza sqlite nvim bat btop zoxide
+brew install jq rg fzf eza sqlite nvim bat btop zoxide
 brew install node python jetbrains-toolbox visual-studio-code git alt-tab iterm2
 
 echo "Finished!"

@@ -51,15 +51,6 @@ class CurrentState:
     def __iter__(self) -> Iterable[ArticleHistory]:
         return (i for i in self.__state.values())
 
-
-def read_articles(path) -> Iterable[Article]:
-    with open(path) as f:
-        header = f.readline()
-        for line in f.readlines():
-            date, status, resource = line.split("\t")
-            yield Article(date, status, resource)
-
-
 if __name__ == "__main__":
     import json
     import sqlite3

@@ -280,8 +280,7 @@ vnoremap rr gq
 vnoremap r> :sort i<CR>
 vnoremap r≥ :!perl -e 'print sort { length($a) <=> length($b) } <>'<CR>
 vnoremap r< :!perl -e 'print reverse <>'<CR>
-vnoremap r= :!column -t<CR>
-vmap r§ r=Or≥
+vnoremap r= :!column -t -c2<CR>
 
 nnoremap rd "ayy"ap
 vnoremap r. :s/)\./)\r./g<CR>

@@ -87,7 +87,7 @@ function gitAdvance() {
 		return 0
 	}
 
-	git add . && ./gradlew build --offline && {
+	git add . && ./gradlew :integrations:integration-stp-mx:test --offline && {
 
 		pendingChanges && doCommit && inRebase &&
 			prompt "Would you like to revert newly commited change to avoid conflicts in your rebase? (y/n) " &&
