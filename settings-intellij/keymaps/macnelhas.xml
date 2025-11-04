@@ -98,6 +98,9 @@
   <action id="ActivateProblemsViewToolWindow">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="i" />
   </action>
+  <action id="ActivateProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="alt w" second-keystroke="shift s" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="p" />
   </action>
@@ -1401,6 +1404,12 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="com.anthropic.code.plugin.actions.OpenClaudeInTerminalAction">
+    <keyboard-shortcut first-keystroke="alt a" second-keystroke="tab" />
+  </action>
+  <action id="com.anthropic.code.plugin.actions.SendToClaudeAction">
+    <keyboard-shortcut first-keystroke="alt a" second-keystroke="k" />
   </action>
   <action id="context.clear" />
   <action id="context.load" />

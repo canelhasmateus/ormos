@@ -148,6 +148,7 @@ map Ri <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.Int
 vnoremap r. :s/)\./)\r./g<CR>:action ReformatCode<CR>
 vnoremap r, :s/,/,\r/g<CR>:action ReformatCode<CR>
 vnoremap r<space> :s/ / \r/g<CR>
+vnoremap r= :!column -t -c2<CR>
 
 """ ____________________ [T] prefix is unmodified
 
@@ -327,7 +328,8 @@ vmap vi <Plug>RemoveOccurrence
 vmap vk <Plug>NextOccurrence
 vmap vK <Plug>AllOccurrences
 
-""" [T]
+""" [T] dunno
+
 map ti <Action>(NotebookSelectCellAboveAction)
 map tk <Action>(NotebookSelectCellBelowAction)
 
@@ -392,6 +394,9 @@ map <leader>m <Action>(SelectIn)
 map <leader>. @@
 noremap <leader>m m
 
+map <leader>s <Action>(RunClass)
+map <leader>S <Action>(DebugClass)
+map <leader>r <Action>(DebugClass)
+
 """ Quick change scapehatch
 map <leader>25 <Esc>
-vnoremap r= :!column -t -c2<CR>
