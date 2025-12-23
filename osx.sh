@@ -56,18 +56,27 @@ baseGroup=(
 	'../nisi/zshrc .zshrc'
 	'../nisi/zshenv .zshenv'
 	'../nisi/docs .canelhasmateus/docs'
+	'../nisi/docs .canelhasmateus/docs'
+	'../nisi/docs/journal-revo .canelhasmateus/work'
 
 	'../limni/vault/articles.tsv .canelhasmateus/articles.tsv'
 
 	'./shared-lib .canelhasmateus/lib'
-	'./shared-bin/journal.py ../../usr/local/bin/journal'
+	'./shared-bin .canelhasmateus/bin'
+
 	'./shared-bin/bookmarks.py ../../usr/local/bin/bookmarks'
+	'./shared-bin/osx-blurb.sh ../../usr/local/bin/osx-blurbs'
+	'./shared-bin/osx-journal.sh ../../usr/local/bin/osx-journal'
+	'./shared-bin/osx-todos.sh ../../usr/local/bin/osx-todos'
+	'./shared-bin/osx-work.sh ../../usr/local/bin/osx-work'
 
 	'./shared-config .canelhasmateus/config'
 	'./shared-config/osx-colima.yaml .colima/default/colima.yaml'
 	'./shared-config/osx-alacrity.yml .config/alacritty/alacritty.yml'
 	'./shared-config/osx-gradle-offline.groovy .gradle/init.d/configure-resolution-strategy.gradle'
 	'./shared-config/osx-gradle-local-plugin.groovy .gradle/init.d/add-maven-local-plugin-repo.gradle'
+	
+	'./shared-config/hammerspoon .hammerspoon'
 
 )
 linkGroup "${baseGroup[@]}"
@@ -154,6 +163,7 @@ unzip "$dest" -d "$parentDir" && mv "$parentDir"/*.ttf ~/Library/Fonts
 eval "$(/opt/homebrew/bin/brew shellenv)"
 brew install jq rg fzf eza sqlite nvim bat btop zoxide
 brew install node python jetbrains-toolbox visual-studio-code git alt-tab iterm2
+brew install --cask hammerspoon
 
 echo "Finished!"
 

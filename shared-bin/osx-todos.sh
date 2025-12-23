@@ -1,5 +1,5 @@
 #! /bin/bash
-f="${HOME}/.canelhasmateus/todo.md"
+f="${HOME}/.canelhasmateus/docs/todo.md"
 p=$(dirname "$f")
 p=$(realpath "$p")
 /opt/homebrew/bin/nvim -c 'normal Gek' \

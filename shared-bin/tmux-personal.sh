@@ -8,7 +8,6 @@ thorsten
 EOF
 )
 
-
 if [[ "$choice" == "docs" ]] ; then
   cd nisi
   filename="$(date +"%Y-%m-%d").md"

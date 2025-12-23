@@ -71,6 +71,8 @@ map I <Action>(EditorSelectWord)
 map K <Action>(EditorUnSelectWord)
 map gq <Action>(FillParagraph)
 
+vnoremap <leader>i i
+
 "" ____________________ [Q] prefix controls [Q]uick commands
 
 map qq <Action>(ShowIntentionActions)
@@ -399,4 +401,4 @@ map <leader>S <Action>(DebugClass)
 map <leader>r <Action>(DebugClass)
 
 """ Quick change scapehatch
-map <leader>25 <Esc>
+map <leader>31 <Esc>

@@ -2,8 +2,8 @@
 f="$(mktemp)"
 
 /opt/homebrew/bin/nvim -c 'startinsert' \
-  -c 'map <A-s> <Esc>:wq<CR>' -c 'imap <A-s> <Esc>:wq<CR>' \
-  -c 'map <A-d> <Esc>:q!<CR>' -c 'imap <A-d> <Esc>:q!<CR>' \
+  -c 'nmap ß <Esc>:wqa<CR>' -c 'imap ß <Esc>:wqa<CR>' \
+  -c 'map ð <Esc>:q!<CR>' -c 'imap ð <Esc>:q!<CR>' \
   -- "$f"
 written=$(cat "$f")
 
