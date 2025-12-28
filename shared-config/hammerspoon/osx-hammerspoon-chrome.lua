@@ -17,7 +17,7 @@ end
 function Utilities.findTransitions(currentUrl)
     -- Create table if not exists
     local createSql = string.format(
-        'sqlite3 "%s" "create table if not exists bookmarks(url text not null unique, transitions text not null)"',
+        'sqlite3 "%s" "create table if not exists bookmarks(url text not null unique, transitions blob not null)"',
         DATABASE
     )
     os.execute(createSql)
@@ -61,7 +61,7 @@ end
 
 -- Main Functions
 local function persist(transition)
-    local content = string.format("\n%s\t%s\t%s\n",
+    local content = string.format("%s\t%s\t%s\n",
         transition.date,
         transition.status,
         transition.resource
@@ -84,8 +84,7 @@ local function getCurrentChromeUrl()
 end
 
 local function getBrazilTime()
-    -- Get UTC time and subtract 3 hours for Brazil time
-    local timestamp = os.time() - (3 * 60 * 60)
+    local timestamp = os.time()
     return os.date("%Y-%m-%d %H:%M:%S", timestamp)
 end
 
@@ -112,10 +111,16 @@ local function promptTransition(currentUrl)
         {text = "Tool"}
     }
 
-    local selectedStatus = nil
     local chooser = hs.chooser.new(function(choice)
         if choice then
-            selectedStatus = choice.text
+            local transition = {
+                date = getBrazilTime(),
+                status = choice.text,
+                resource = currentUrl,
+                previous = previousTransitions
+            }
+            persist(transition)
+            hs.alert.show(string.format("Saved: %s", transition.status))
         end
     end)
 
@@ -129,18 +134,8 @@ local function promptTransition(currentUrl)
     end
     chooser:choices(choices)
 
-    -- Show and wait for selection
+    -- Show chooser (non-blocking)
     chooser:show()
-
-    if selectedStatus then
-        return {
-            date = getBrazilTime(),
-            status = selectedStatus,
-            resource = currentUrl,
-            previous = previousTransitions
-        }
-    end
-    return nil
 end
 
 -- Main entry point
@@ -152,11 +147,7 @@ local function run()
         return
     end
 
-    local transition = promptTransition(currentUrl)
-    if transition then
-        persist(transition)
-        hs.alert.show(string.format("Saved: %s", transition.status))
-    end
+    promptTransition(currentUrl)
 end
 
 -- Bind to a hotkey (example: Cmd+Shift+B)

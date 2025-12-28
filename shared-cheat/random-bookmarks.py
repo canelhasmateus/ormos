@@ -1,11 +1,16 @@
-#! python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.10"
+# dependencies = [ ]
+# ///
 
 from __future__ import annotations
+
+import json
+import re
+import sqlite3
 from pathlib import Path
 from typing import Iterable
-import re
-import json
-
 
 class Article:
 
@@ -61,18 +66,19 @@ def read_articles(path) -> Iterable[Article]:
 
 
 if __name__ == "__main__":
-    import json
-    import sqlite3
-
     state = CurrentState()
-    for article in read_articles("./lists/stream/articles.tsv"):
+
+    tsv = Path("~/.canelhasmateus/articles.tsv").expanduser()
+    db = Path("~/.canelhasmateus/state.db").expanduser()
+
+    for article in read_articles(tsv):
         state.add(article)
 
-    connection = sqlite3.connect("./lists/state/limni.db")
+    connection = sqlite3.connect(db)
     cursor = connection.cursor()
-    cursor.execute("drop table if exists state")
+    cursor.execute("drop table if exists bookmarks")
     cursor.execute("""
-    create table state (
+    create table bookmarks(
         url varchar(256) primary key,
         transitions blob not null  
     )
@@ -82,7 +88,7 @@ if __name__ == "__main__":
         content = json.dumps(transition.history)
         key = transition.url.strip()
         cursor.execute("""
-        replace into state( url, transitions ) values ( ? , ? ) 
+        replace into bookmarks( url, transitions ) values ( ? , ? ) 
         """, (key, content))
-        
+
     connection.commit() 
