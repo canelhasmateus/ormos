@@ -402,3 +402,4 @@ map <leader>r <Action>(DebugClass)
 
 """ Quick change scapehatch
 map <leader>31 <Esc>
+map <leader>rl
