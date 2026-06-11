@@ -145,7 +145,7 @@ map rT <Action>(ChangeTypeSignature)
 map Rr <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ConvertParameterToReceiverIntention)
 map RR <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ConvertReceiverToParameterIntention)
 map Rp <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.AddNamesToCallArgumentsIntention)
-map Ri <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.IntroduceImportAliasIntention) 
+map Ri <Action>(IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.IntroduceImportAliasIntention)
 
 vnoremap r. :s/)\./)\r./g<CR>:action ReformatCode<CR>
 vnoremap r, :s/,/,\r/g<CR>:action ReformatCode<CR>

@@ -1,8 +1,8 @@
-#! /opt/homebrew/bin/python3
-# Script Dependencies:
-#    numpy
-#    pandas     
-#    asciichartpy
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.10"
+# dependencies = [ "numpy", "pandas", "asciichartpy"]
+# ///
 
 import builtins
 import re
