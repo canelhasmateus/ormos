@@ -1,7 +1,7 @@
 #! /bin/bash
 f="$(mktemp)"
 
-/opt/homebrew/bin/nvim -c 'startinsert' \
+nvim -c 'startinsert' \
   -c 'nmap ß <Esc>:wqa<CR>' -c 'imap ß <Esc>:wqa<CR>' \
   -c 'map ð <Esc>:q!<CR>' -c 'imap ð <Esc>:q!<CR>' \
   -- "$f"

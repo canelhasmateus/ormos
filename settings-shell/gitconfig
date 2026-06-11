@@ -189,6 +189,11 @@
 	#fetch = +refs/pull/*/head:refs/remotes/origin/pull/*
 
 [commit]
-	gpgsign = true
+	gpgsign = false
 [pull]
 	rebase = true
+[usr]
+	email = mateus.canelhas@gmail.com
+[user]
+	email = mateus.canelhas@gmail.com
+	name = Mateus Canelhas

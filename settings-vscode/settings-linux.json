@@ -1,0 +1,255 @@
+{
+    "[markdown]": {
+        "editor.defaultFormatter": "unifiedjs.vscode-remark"
+    },
+    "debug.inlineValues": "auto",
+    "diffEditor.codeLens": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorWidth": 3,
+    "editor.find.autoFindInSelection": "multiline",
+    "editor.find.seedSearchStringFromSelection": "selection",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace'",
+    "editor.fontLigatures": "'calt', 'liga', 'ss06'",
+    "editor.fontSize": 18,
+    "editor.fontWeight": "1",
+    "editor.inlineSuggest.enabled": true,
+    "editor.largeFileOptimizations": true,
+    "editor.letterSpacing": 0.4,
+    "editor.minimap.scale": 2,
+    "editor.minimap.showSlider": "always",
+    "editor.parameterHints.cycle": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "other": "on",
+        "strings": "on"
+    },
+    "editor.scrollBeyondLastLine": false,
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "editor.showFoldingControls": "always",
+    "editor.smoothScrolling": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggestSelection": "first",
+    "errorLens.enabledDiagnosticLevels": [
+        "warning",
+        "info",
+        "error"
+    ],
+    "explorer.autoReveal": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.kws": "xml",
+        "*.ts": "typescript",
+        "*.mdx": "Markdown",
+        "*.d2": "d2"
+    },
+    "files.autoSave": "afterDelay",
+    "files.eol": "\n",
+    "files.watcherExclude": {},
+    "foam.files.attachmentExtensions": "pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx sh py js sql java kt",
+    "foam.graph.titleMaxLength": 0,
+    "gitlens.keymap": "none",
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "markdown-preview-enhanced.previewTheme": "monokai.css",
+    "markdown.extension.list.indentationSize": "inherit",
+    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serifr",
+    "markdown.preview.openMarkdownLinks": "inEditor",
+    "markdownlint.config": {
+        "code-block-style": {
+            "style": "fenced"
+        }
+    },
+    "markdownlint.run": "onSave",
+    "security.workspace.trust.untrustedFiles": "open",
+    "settingsSync.keybindingsPerPlatform": false,
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 3,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        }
+    },
+    "typescript.check.npmIsInstalled": false,
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "typescript.tsserver.maxTsServerMemory": 0,
+    "typescript.tsserver.useSyntaxServer": "always",
+    "window.title": "${rootName}",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#E8BA36",
+        "editorBracketHighlight.foreground2": "#54A857",
+        "editorBracketHighlight.foreground3": "#82AAFF",
+        "editorBracketHighlight.foreground4": "#5060BB",
+        "editorBracketHighlight.foreground5": "#179387",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+    },
+    "workbench.colorTheme": "Jewel",
+    "workbench.editor.languageDetection": false,
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.enablePreview": false,
+    "workbench.enableExperiments": false,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.startupEditor": "none",
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.showTabs": "single",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.columnSelection": true,
+    "editor.formatOnPaste": true,
+    "vim.camelCaseMotion.enable": true,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.replace": "underline",
+    "vim.cursorStylePerMode.visual": "block-outline",
+    "vim.cursorStylePerMode.visualblock": "block-outline",
+    "vim.cursorStylePerMode.visualline": "block-outline",
+    "vim.digraphs": {},
+    "vim.easymotion": true,
+    "vim.easymotionKeys": "asdfjklçzxcvmqweruiop",
+    "vim.handleKeys": {},
+    "vim.highlightedyank.enable": true,
+    "vim.hlsearch": false,
+    "vim.insertModeKeyBindings": [],
+    "vim.insertModeKeyBindingsNonRecursive": [],
+    "vim.leader": "<Space>",
+    "vim.normalModeKeyBindings": [],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["o", "r"],
+            "after": [],
+            "commands": [{
+                "args": {},
+                "command": "extension.intellijRecentFiles",
+                "when": "editorTextFocus"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["r", "r"],
+            "commands": [{
+                "args": {},
+                "command": "editor.action.formatDocument",
+                "when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["r", "d"],
+            "commands": [{
+                "command": "editor.action.duplicateSelection"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["q", "ç"],
+            "commands": [{
+                "command": "editor.action.marker.next"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["q", "h"],
+            "commands": [{
+                "command": "editor.action.marker.prev"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["n", "f"],
+            "commands": [{
+                "command": "workbench.action.quickOpen"
+            }]
+        },
+        {
+            "after": [],
+            "before": ["<leader>", "v", "i", "m"],
+            "commands": [{
+                "command": "workbench.action.openSettingsJson"
+            }]
+        },
+        {
+            "after": ["<leader>", "<leader>", "w"],
+            "before": ["f", "l"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "b"],
+            "before": ["f", "j"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "<leader>", "b", "d", "w"],
+            "before": ["f", "w"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "<leader>", "b", "d", "e"],
+            "before": ["f", "e"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "j"],
+            "before": ["f", "ç"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "k"],
+            "before": ["f", "h"]
+        },
+        {
+            "after": ["<leader>", "<leader>", "/"],
+            "before": ["f", "q"]
+        },
+        {
+            "before": ["M", "M"],
+            "commands": ["bookmarks.toggleLabeled"]
+        },
+        {
+            "before": ["M", "C"],
+            "commands": ["bookmarks.clear"]
+        },
+        {
+            "before": ["M", "R"],
+            "commands": ["bookmarks.clearFromAllFiles"]
+        },
+        {
+            "before": ["o", "m"],
+            "commands": ["bookmarks.list"]
+        }
+    ],
+    "vim.operatorPendingModeKeyBindings": [],
+    "vim.operatorPendingModeKeyBindingsNonRecursive": [],
+    "vim.showMarksInGutter": true,
+    "vim.smartRelativeLine": true,
+    "vim.useSystemClipboard": true,
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "$HOME/.ideavimrc",
+    "vim.visualModeKeyBindings": [],
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "commands": [{"command": "editor.action.duplicateSelection"}],
+            "before": ["r", "d"],
+            "after": []
+        },
+        { "before": ["f", "l"], "after": ["<leader>", "<leader>", "w"] },
+        { "before": ["f", "j"], "after": ["<leader>", "<leader>", "b"] },
+        { "before": ["f", "w"], "after": ["<leader>", "<leader>", "<leader>", "b", "d", "w"] },
+        { "before": ["f", "e"], "after": ["<leader>", "<leader>", "<leader>", "b", "d", "e"] },
+        { "before": ["f", "ç"], "after": ["<leader>", "<leader>", "j"] },
+        { "before": ["f", "h"], "after": ["<leader>", "<leader>", "k"] },
+        { "before": ["f", "/"], "after": ["<leader>", "<leader>", "/"] }
+    ],
+    "vim.whichwrap": "b,s,"
+}
